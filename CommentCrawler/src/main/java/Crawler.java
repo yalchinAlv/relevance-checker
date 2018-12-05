@@ -27,20 +27,27 @@ public class Crawler {
         // start chrome driver
         WebDriver driver = new ChromeDriver(options);
 
-        String profileUrl = "https://www.instagram.com/loeya/";
-        List<String> urls = getUrls(driver, profileUrl);
+//        String profileUrl = "https://www.instagram.com/loeya/";
+//        List<String> urls = getUrls(driver, profileUrl);
+//
+//        System.out.println(urls);
+//
+//        ArrayList<Post> posts = new ArrayList<Post>();
+//
+//        for (String url : urls) {
+//            posts.add(parsePost(driver, url));
+//        }
 
-        System.out.println(urls);
+        Post post = parsePost(driver, "https://www.instagram.com/p/BqVvmdEFznn/");
 
-        ArrayList<Post> posts = new ArrayList<Post>();
-
-        for (String url : urls) {
-            posts.add(parsePost(driver, url));
-        }
+        ArrayList<String> comments = new ArrayList<String>();
+        for (Comment comment : post.getComments())
+            comments.add(comment.getText());
 
         ObjectMapper mapper = new ObjectMapper();
         try {
-            mapper.writeValue(new File("C:\\Users\\Yalchin Aliyev\\Desktop\\comment.json"), posts);
+            mapper.writeValue(new File("comments\\posts.json"), post);
+            mapper.writeValue(new File("comments\\comments.json"), comments);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -85,7 +92,7 @@ public class Crawler {
             try {
                 while (moreCommentsButton != null && moreCommentsButton.isDisplayed() && moreCommentsButton.isEnabled()) {
                     moreCommentsButton.click();
-                    Thread.sleep(500);
+                    Thread.sleep(50);
                 }
             }
             catch (StaleElementReferenceException ex) {
@@ -98,7 +105,7 @@ public class Crawler {
                 WebElement comment = commentSection.get(i);
 
                 post.getComments().add(new Comment(comment.findElement(By.tagName("h3")).getText(),
-                                                   comment.findElement(By.tagName("span")).getText()));
+                                                   comment.findElement(By.tagName("span")).getText(), i));
             }
 
             return post;
