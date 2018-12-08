@@ -14,7 +14,7 @@ public class GVisionAPI
     private static final String TARGET_URL =
             "https://vision.googleapis.com/v1/images:annotate?";
     private static final String API_KEY =
-            "key=AIzaSyDgNVYwy3xm0mbokxCtyeJrQS1ilbkHlLE";
+            "key=";
 
     private static final String IMAGE_URI =
             "http://lengel.net/ed30/high_school_classroom.jpg";
