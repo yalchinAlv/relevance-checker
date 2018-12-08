@@ -1,2 +1,0 @@
-hello 3
-baby 3
