@@ -25,11 +25,7 @@ int main() {
     sort(key_score.begin(), key_score.end());
     reverse(key_score.begin(), key_score.end());
 
-    int threshold = key_score[0].first / 2;
-
     for (int i = 0; i < key_score.size(); i++){
-        if (threshold >= key_score[i].first)
-            break;
         cout << key_score[i].second << " " << key_score[i].first << endl;
     }
 
