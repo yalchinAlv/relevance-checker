@@ -1,44 +1,41 @@
 #include<bits/stdc++.h>
-#define MAX_FRACTION 10
 using namespace std;
 
 vector<string> comments;
+vector< pair<int, int> >comment_scores;
 
 int main() {
 
     freopen("../input_dir/comments.txt", "r", stdin);
 
-    int comment_id;
     string comment;
+    int comment_id;
 
     while (cin >> comment_id && getline(cin, comment)){
         comments.push_back(comment);
     }
 
-    cout << "DONEE" << endl;
+    cin.clear();
 
     freopen ("../output_dir/part-00000", "r", stdin);
     freopen ("irrelevant_comment-score.txt", "w", stdout);
 
-    vector< pair<int, int> >comment_scores;
-
     int comment_score;
+    int sum = 0;
 
     while ((cin >> comment_id >> comment_score) && comment_id != EOF){
       comment_scores.push_back({comment_score, comment_id});
+      sum += comment_score;
     }
 
     sort(comment_scores.begin(), comment_scores.end());
 
-    int threshold = comment_scores[comment_scores.size() - 1].first / MAX_FRACTION;
+    int threshold = sum / comment_scores.size();
 
-    cout << "STARTING " << endl;
     for (int i = 0; i < comment_scores.size(); i++) {
-      if (comment_scores[i].first <= threshold)
+      if (comment_scores[i].first >= threshold)
         break;
-      cout << comment_scores[i].second << ' ' << comment_scores[i].first
-            << "<" << comments[comment_scores[i].second] << ">" << endl;
+      cout << comment_scores[i].second << ' ' << comment_scores[i].first << " <" << comments[comment_scores[i].second].substr(1) << ">" << endl;
     }
-
     return 0;
 }
