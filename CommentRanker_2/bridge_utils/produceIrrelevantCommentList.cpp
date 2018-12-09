@@ -43,6 +43,7 @@ int main() {
 
 
     sort(comment_scores.begin(), comment_scores.end());
+    //reverse(comment_scores.begin(), comment_scores.end());
 
     int threshold = sum / comment_scores.size();
 

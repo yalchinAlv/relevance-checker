@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-vector<string> comments;
+unordered_map<int, string>comments;
 vector< pair<int, int> >comment_scores;
 
 int main() {
@@ -12,7 +12,7 @@ int main() {
     int comment_id;
 
     while (cin >> comment_id && getline(cin, comment)){
-        comments.push_back(comment);
+        comments[comment_id] = comment;
     }
 
     cin.clear();
@@ -29,6 +29,7 @@ int main() {
     }
 
     sort(comment_scores.begin(), comment_scores.end());
+    //reverse(comment_scores.begin(), comment_scores.end());
 
     int threshold = sum / comment_scores.size();
 
