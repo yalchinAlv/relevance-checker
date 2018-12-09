@@ -1,8 +1,11 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+const int MAX_COMMENT_NO = 100000;
+
 vector<string> comments;
 vector< pair<int, int> >comment_scores;
+bool used[MAX_COMMENT_NO];
 
 int main() {
 
@@ -27,6 +30,15 @@ int main() {
       comment_scores.push_back({comment_score, comment_id});
       sum += comment_score;
     }
+
+    for (int i = 0; i < MAX_COMMENT_NO; i++)
+      used[i] = false;
+    for (int i = 0; i < comment_scores.size(); i++)
+      used[comment_scores[i].second] = true;
+    for (int i = 0; i < comments.size(); i++)
+      if (!used[i])
+        comment_scores.push_back({0, i});
+
 
     sort(comment_scores.begin(), comment_scores.end());
 
