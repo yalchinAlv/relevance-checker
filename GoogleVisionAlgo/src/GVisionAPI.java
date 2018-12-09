@@ -16,8 +16,8 @@ public class GVisionAPI
     private static final String API_KEY =
             "key=";
 
-    private static final String IMAGE_URI = "https://instagram.fist2-3.fna.fbcdn.net/vp/ba1613c8d755adabfea4a02035d3d088/5C988330/t51.2885-15/e35/46096405_570610093399398_8729735519736426980_n.jpg";
-//            "http://lengel.net/ed30/high_school_classroom.jpg";
+    private static final String IMAGE_URI =
+            "http://lengel.net/ed30/high_school_classroom.jpg";
 
 
     public static void main( String [] args)
@@ -30,38 +30,29 @@ public class GVisionAPI
             {
                 serverUrl = new URL(TARGET_URL + API_KEY);
                 urlConnection = serverUrl.openConnection();
-                HttpURLConnection httpConnection = (HttpURLConnection)urlConnection;
+                HttpURLConnection httpConnection = (HttpURLConnection) urlConnection;
 
                 httpConnection.setRequestMethod("POST");
                 httpConnection.setRequestProperty("Content-Type", "application/json");
 
                 httpConnection.setDoOutput(true);
-
                 BufferedWriter httpRequestBodyWriter = new BufferedWriter(new
                         OutputStreamWriter(httpConnection.getOutputStream()));
-
-//                httpRequestBodyWriter.write
-//                        ("{\"requests\":  [{ \"features\":  [ {\"type\": \"LABEL_DETECTION\""
-//                                +"}], \"image\": {\"source\": { \"gcsImageUri\":"
-//                                +" \"gs://vision-sample-images/4_Kittens.jpg\"}}}]}");
-
-
+/*
                 httpRequestBodyWriter.write
                         ("{\"requests\":  [{ \"features\":  [ {\"type\": \"LABEL_DETECTION\""
                                 +"}], \"image\": {\"source\": { \"imageUri\":"
                                 +" \"" + IMAGE_URI + "\"}}}]}");
+*/
+
+                httpRequestBodyWriter.write
+                        ("{\"requests\":  [{ \"features\":  [ {\"type\": \"LABEL_DETECTION\""
+                                +"}], \"image\": {\"source\": { \"gcsImageUri\":"
+                                +" \"gs://vision-sample-images/4_Kittens.jpg\"}}}]}");
 
                 httpRequestBodyWriter.close();
-
                 String response = httpConnection.getResponseMessage();
 
-//                InputStream inputStreamError = httpConnection.getErrorStream();
-//                Scanner sE = new Scanner(inputStreamError).useDelimiter("\\A");
-//                String jsonStrError = sE.hasNext() ? sE.next() : "";
-//
-//                System.out.println(jsonStrError);
-//
-//                System.out.println(response);
                 if (httpConnection.getInputStream() == null) {
                     System.out.println("No stream");
                 }
@@ -69,13 +60,9 @@ public class GVisionAPI
                 else
                 {
 
-//                    PrintWriter writerFull = new PrintWriter("imageLabelsFull.txt", "UTF-8");
-//                    PrintWriter writerFirstLast = new PrintWriter("imageLabelsFirstLast.txt", "UTF-8");
-//                    PrintWriter writerWOStopWords = new PrintWriter("imageLabelsWOStopWords.txt", "UTF-8");
-
-                    PrintWriter writer = new PrintWriter("imageLabels.txt", "UTF-8");
-
-                    PrintWriter writerWScore = new PrintWriter("imageLabelsWScores.txt", "UTF-8");
+                    PrintWriter writerFull = new PrintWriter("imageLabelsFull.txt", "UTF-8");
+                    PrintWriter writerFirstLast = new PrintWriter("imageLabelsFirstLast.txt", "UTF-8");
+                    PrintWriter writerWOStopWords = new PrintWriter("imageLabelsWOStopWords.txt", "UTF-8");
 
                     InputStream inputStream = httpConnection.getInputStream();
                     Scanner s = new Scanner(inputStream).useDelimiter("\\A");
@@ -89,103 +76,84 @@ public class GVisionAPI
                     JSONArray labelAnnotationsArray = responsesArray.getJSONObject(0).getJSONArray("labelAnnotations");
 
                     // Writing Fully
-//                    for (int i = 0; i < labelAnnotationsArray.length(); i++)
-//                    {
-//                        JSONObject label = labelAnnotationsArray.getJSONObject(i);
-//                        String description = label.getString("description");
-//                        double score = label.getDouble("score");
-//                        double topicality  = label.getDouble("topicality");
-//
-//                        writerFull.println(description + "," + score + ","  + topicality);
-//                    }
-//
-//                    writerFull.close();
+                    for (int i = 0; i < labelAnnotationsArray.length(); i++)
+                    {
+                        JSONObject label = labelAnnotationsArray.getJSONObject(i);
+                        String description = label.getString("description");
+                        double score = label.getDouble("score");
+                        double topicality  = label.getDouble("topicality");
+
+                        writerFull.println(description + "," + score + ","  + topicality);
+                    }
+
+                    writerFull.close();
 
 
-//                    // Writing First Last Words
-//                    for (int i = 0; i < labelAnnotationsArray.length(); i++)
-//                    {
-//                        JSONObject label = labelAnnotationsArray.getJSONObject(i);
-//                        String description = label.getString("description");
-//
-//                        double score = label.getDouble("score");
-//                        double topicality  = label.getDouble("topicality");
-//
-//                        int index =  description.indexOf(' ');
-//                        if ( index != -1 )
-//                        {
-//                            String first = description.substring(0, description.indexOf(' '));
-//                            String last = description.substring( description.lastIndexOf(' ')+1 );
-//
-//                            writerFirstLast.println(first + "," + score + ","  + topicality);
-//                            writerFirstLast.println(last + "," + score + ","  + topicality);
-//                        }
-//                        else
-//                        {
-//                            writerFirstLast.println(description + "," + score + ","  + topicality);
-//                        }
-//
-//                    }
-//
-//                    writerFirstLast.close();
-//
-//
-//
-//                    // Remove stop words then write all left words
-//
-//                    File file = new File("Stop_Words.txt");
-//                    Scanner stopWordsScanner = new Scanner (file);
-//                    ArrayList<String> stopWords = new ArrayList<>();
-//                    while ( stopWordsScanner.hasNextLine() )
-//                    {
-//                        stopWords.add(stopWordsScanner.nextLine().trim());
-//                    }
-//                    for (int i = 0; i < labelAnnotationsArray.length(); i++)
-//                    {
-//                        JSONObject label = labelAnnotationsArray.getJSONObject(i);
-//                        String description = label.getString("description");
-//                        String[] labelWords = description.split(" ");
-//                        ArrayList<String> wordList = new ArrayList<String>(Arrays.asList(labelWords));
-//
-//                        for ( int k = 0; k < wordList.size(); k++ )
-//                        {
-//                            if ( stopWords.contains(wordList.get(k)) )
-//                            {
-//                                wordList.remove(k);
-//                                k--;
-//                            }
-//                        }
-//
-//                        double score = label.getDouble("score");
-//                        double topicality  = label.getDouble("topicality");
-//
-//                        for ( String word: wordList)
-//                        {
-//                            writerWOStopWords.println(word + "," + score + ","  + topicality);
-//                        }
-//                    }
-//
-//                    writerWOStopWords.close();
-
-
-                    // Writing Fully
+                    // Writing First Last Words
                     for (int i = 0; i < labelAnnotationsArray.length(); i++)
                     {
                         JSONObject label = labelAnnotationsArray.getJSONObject(i);
                         String description = label.getString("description");
 
                         double score = label.getDouble("score");
+                        double topicality  = label.getDouble("topicality");
 
-                        if ( description.indexOf(" ") == -1 )
+                        int index =  description.indexOf(' ');
+                        if ( index != -1 )
                         {
-                            writerWScore.println(description + "," + score);
-                            writer.println(description);
+                            String first = description.substring(0, description.indexOf(' '));
+                            String last = description.substring( description.lastIndexOf(' ')+1 );
+
+                            writerFirstLast.println(first + "," + score + ","  + topicality);
+                            writerFirstLast.println(last + "," + score + ","  + topicality);
+                        }
+                        else
+                        {
+                            writerFirstLast.println(description + "," + score + ","  + topicality);
                         }
 
                     }
 
-                    writer.close();
-                    writerWScore.close();
+                    writerFirstLast.close();
+
+
+
+                    // Remove stop words then write all left words
+
+                    File file = new File("Stop_Words.txt");
+                    Scanner stopWordsScanner = new Scanner (file);
+                    ArrayList<String> stopWords = new ArrayList<>();
+                    while ( stopWordsScanner.hasNextLine() )
+                    {
+                        stopWords.add(stopWordsScanner.nextLine().trim());
+                    }
+                    for (int i = 0; i < labelAnnotationsArray.length(); i++)
+                    {
+                        JSONObject label = labelAnnotationsArray.getJSONObject(i);
+                        String description = label.getString("description");
+                        String[] labelWords = description.split(" ");
+                        ArrayList<String> wordList = new ArrayList<String>(Arrays.asList(labelWords));
+
+                        for ( int k = 0; k < wordList.size(); k++ )
+                        {
+                            if ( stopWords.contains(wordList.get(k)) )
+                            {
+                                wordList.remove(k);
+                                k--;
+                            }
+                        }
+
+                        double score = label.getDouble("score");
+                        double topicality  = label.getDouble("topicality");
+
+                        for ( String word: wordList)
+                        {
+                            writerWOStopWords.println(word + "," + score + ","  + topicality);
+                        }
+                    }
+
+                    writerWOStopWords.close();
+
 
 
 //                    Scanner httpResponseScanner = new Scanner (httpConnection.getInputStream());
