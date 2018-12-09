@@ -25,7 +25,5 @@ public class KeywordMapper extends MapReduceBase implements
             for (int i = 1; i < words.length; i++) {
                 output.collect(new Text(words[i]), new IntWritable(Integer.parseInt(words[0])));
             }
-        else
-            output.collect(new Text(" "), new IntWritable(Integer.parseInt(words[0])));
     }
 }

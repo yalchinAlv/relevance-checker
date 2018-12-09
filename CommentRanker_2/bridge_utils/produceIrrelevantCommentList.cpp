@@ -43,13 +43,18 @@ int main() {
 
 
     sort(comment_scores.begin(), comment_scores.end());
-    //reverse(comment_scores.begin(), comment_scores.end());
 
     int threshold = sum / comment_scores.size();
 
     for (int i = 0; i < comment_scores.size(); i++) {
       if (comment_scores[i].first >= threshold)
         break;
+      cout << comment_scores[i].second << ' ' << comment_scores[i].first << " <" << comments[comment_scores[i].second].substr(1) << ">" << endl;
+    }
+
+    freopen ("commentsSortedByRelevance.txt", "w", stdout);
+
+    for (int i = 0; i < comment_scores.size(); i++) {
       cout << comment_scores[i].second << ' ' << comment_scores[i].first << " <" << comments[comment_scores[i].second].substr(1) << ">" << endl;
     }
     return 0;
