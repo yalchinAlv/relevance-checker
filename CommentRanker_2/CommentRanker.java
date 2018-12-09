@@ -1,39 +1,41 @@
 package hadoop;
 
 import java.util.*;
+import java.io.*;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.*;
 import org.apache.hadoop.mapred.*;
 
+class Pair implements Comparable<Pair>{
+  public String line;
+  public ArrayList<String> comments;
+
+  public Pair(String l, ArrayList<String> c) {
+    line = l;
+    comments = c;
+  }
+
+  public int compareTo(Pair comparePair) {
+    int compareQuantity = comparePair.comments.size();
+
+    return compareQuantity - comments.size();
+  }
+
+  public String commentsToString() {
+    String result = "";
+
+    for (int i = 0; i < comments.size(); i++) {
+      result += comments.get(i) + " ";
+    }
+
+    return result.substring(0, result.length() - 1);
+  }
+}
 
 public class CommentRanker {
 
-  public class Pair implements Comparable<Pair>{
-    public String line;
-    public ArrayList<String> comments;
 
-    public Pair(String l, ArrayList<String> c) {
-      line = l;
-      comments = c;
-    }
-
-    public int compareTo(Pair comparePair) {
-      int compareQuantity = comparePair.comments.size();
-
-      return compareQuantity - this.comments.size;
-    }
-
-    public String commentsToString() {
-      String result = "";
-
-      for (int i = 0; i < comments.size(); i++) {
-        result += comments.get(i) + " ";
-      }
-
-      return result.substring(0, result.length() - 1);
-    }
-  }
     public static void main(String[] args) throws Exception {
 
             // First Stage
@@ -57,8 +59,8 @@ public class CommentRanker {
 
             JobClient.runJob(firstStage);
 
-            handleIO();
-            
+            sortKeywords();
+
             // Second Stage
             JobConf secondStage = new JobConf(CommentRanker.class);
 
@@ -78,40 +80,42 @@ public class CommentRanker {
             JobClient.runJob(secondStage);
     }
 
-    public static void handleIO () {
-      final String INPUT = "/temp_dir/part-00000";
-      final String OUTPUT = "/temp_dir/part-00000";
-
-      FileInputStream instream = null;
-      PrintStream outstream = null;
-      try {
-          instream = new FileInputStream(INPUT);
-          outstream = new PrintStream(new FileOutputStream(OUTPUT));
-          System.setIn(instream);
-          System.setOut(outstream);
-      } catch (FileNotFoundException e) {
-          System.out.println("Error Occurred.");
-      }
-
-      sortKeywords();
-    }
-
-    public static void sortKeywords() {
-      Scanner scan = new Scanner();
+    public static void sortKeywords() throws Exception{
       ArrayList<Pair> pairs = new ArrayList<>();
-      //ArrayList<String> comments = new ArrayList<>();
 
-      while (scan.hasNextLine()) {
-        String line = scan.nextLine().split("\t");
+      File file = new File("temp_dir/part-00000");
+      BufferedReader br = new BufferedReader(new FileReader(file));
+      String st;
 
-        pairs.add(line[0], new ArrayList<String>(Arrays.asList(line[1].split(" "))));
+      String[] line;
+      while ((st = br.readLine()) != null) {
+        //System.out.println("line[1]");
+
+        line = st.split("\t");
+        //System.out.println("line[1]");
+        Pair pair = new Pair(line[0], new ArrayList<String>(Arrays.asList(line[1].split(" ") )));
+        pairs.add(pair);
       }
-
       Collections.sort(pairs);
 
-      for(int i = 0; i < 100; i++) {
-        System.out.print(pairs[i].line + "\t" + pairs[i].commentsToString());
+      PrintWriter writer = new PrintWriter("temp_dir/part-00000", "UTF-8");
+
+      for(int i = 0; i < pairs.size(); i++) {
+        writer.println(pairs.get(i).line + "\t" + pairs.get(i).commentsToString());
       }
+      writer.close();
+
+      File crcFile = new File("temp_dir/.part-00000.crc");
+      if (crcFile.delete()) {
+        System.out.println("DELETEDDD");
+      } else {        System.out.println("NOOOOOT DELETEDDD");
+}
+      //System.out.println(toWrite);
+
+
+      //
+      //  System.out.print();
+    //
     }
 
 }

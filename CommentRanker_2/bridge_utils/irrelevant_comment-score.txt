@@ -1,3 +1,8 @@
+1 1 <yo>
+2 1 <1>
+4 1 <RIP>
+5 1 <😢>
+6 1 <First>
 7 1 <🇮🇷🤕😭>
 12 1 <Hi>
 14 1 <4th>
@@ -6,27 +11,45 @@
 20 1 <💚💛💚💛>
 22 1 <💚💛💚💚💛>
 24 1 <#ایران_من>
+26 1 <Strong>
+30 1 <F>
 32 1 <😢😢😢RIP>
 33 1 <👍👍>
 35 1 <🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷>
 41 1 <🙏🇺🇸🙏🇺🇸🙏🇺🇸>
+42 1 <👍🏻>
 46 1 <😢😢👏>
+50 1 <👍>
 52 1 <😪😪😪😪😪🌹🌹🌹🌹🌹🌹🌹🌹🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
 54 1 <👌🌸💐💐👍👍👍🙏🌹🌹🌺🌺🙏🙏🌹🌹🌺>
+57 1 <Bolsonaro>
+60 1 <🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕>
 61 1 <🇺🇸🇺🇸🇺🇸🙏>
+65 1 <🙌>
+66 1 <🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕>
 69 1 <❤️❤️❤️❤️❤️❤️❤️>
+76 1 <F>
+79 1 <🙏🙏🙏>
 81 1 <♥️♥️❤️>
+95 1 <🙏🏼>
 98 1 <💙💙💙💙💙💙💙💙💙💙💙💙>
 99 1 <@art_is.a.feeling>
 106 1 <🇺🇸🇺🇸🇺🇸💪>
+108 1 <🇺🇸>
+121 1 <😢>
 123 1 <❤️🌟🇺🇸🙏🏻>
 125 1 <🇱🇷🇱🇷🇱🇷🇧🇷🇧🇷🇧🇷>
+127 1 <🇺🇸🇺🇸🇺🇸>
 130 1 <😢😢❤️>
+137 1 <😢>
+149 1 <🙏🏼>
 154 1 <🇮🇷❤️😔>
 156 1 <❤️❤️💙💙>
+165 1 <🙏🏼>
 171 1 <دروددرود>
 174 1 <🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷>
 175 1 <R.l.P>
+176 1 <🇺🇸🇺🇸🇺🇸>
 179 1 <R.I.P>
 183 1 <RIPGeorgeHWBush>
 189 1 <❤️❤️❤️🌹🙏>
@@ -34,73 +57,141 @@
 199 1 <🇺🇸🙋💐💐💐>
 204 1 <👏👏👏👍👍👍🌷>
 208 1 <🙏🏽🙌>
+220 1 <Nice>
+223 1 <Rip>
 224 1 <🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹>
+231 1 <F>
 234 1 <🌹🌹🌹🌹>
+237 1 <😢>
 241 1 <Oremos>
 244 1 <😢😢😢😢😢😢>
 251 1 <❤️❤️❤️>
 252 1 <🙏🏽>
+273 1 <👀>
+288 1 <@bigdelly98>
 294 1 <😢😢😢rip>
 297 1 <🇺🇸❤️🙏❤️🇺🇸>
 314 1 <🙏🇺🇸❤️>
+318 1 <#RIP>
 322 1 <👏👏👏🎓🎓🎓>
 323 1 <🌹🇺🇸>
 324 1 <Honor!>
 334 1 <🚂💨❤️👍🏼👏🏻🙏🏻🇺🇸❗️>
+339 1 <🙏>
 350 1 <💕>
+351 1 <🇺🇸🇺🇸🇺🇸>
 352 1 <👌🌸👌🌸>
+364 1 <🌹>
 369 1 <🗿🗿🗿🗿🗿>
 376 1 <#bushcrimefamily>
+378 1 <😢😢😢>
+380 1 <🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
+382 1 <😢😢😢>
 387 1 <carter?>
 408 1 <❤️🇺🇸❤️🇺🇸>
 409 1 <😂😂😂😂😂😂👏👏👏>
+412 1 <🙏🏻🇺🇸>
 413 1 <@augusto_cezar_bueno>
+419 1 <F>
+421 1 <🙏🙏🙏>
+433 1 <🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
 434 1 <🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
+436 1 <❤️❤️❤️❤️❤️❤️>
 441 1 <🙏🏻❤️>
+442 1 <🙏🙏🙏>
 445 1 <Rip😞>
+473 1 <🇺🇸🇺🇸🇺🇸>
 475 1 <🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷>
+480 1 <@future.marine_usmc>
+485 1 <❤️>
 488 1 <🖤🖤🖤🖤>
 492 1 <🖤>
+496 1 <Rip>
+503 1 <RIP>
 509 1 <🕊>
 511 1 <❤️😘>
+517 1 <Wow!>
+527 1 <🙏>
 529 1 <❤❤❤❤>
 534 1 <😢😢😢😢😢>
+545 1 <❤️🇺🇸>
 550 1 <❤️❤️❤️❤️❤️🇧🇷🇧🇷❤️🇧🇷🇧🇷>
 557 1 <♡♡♡♡♡♡>
 570 1 <Ooohhhh>
+578 1 <🙏🇺🇸>
 582 1 <#GettyNews>
+590 1 <👍>
+595 1 <R>
+597 1 <🇺🇸>
+603 1 <🙏🙏🙏>
 640 1 <🙏🏻🙏🏻🙏🏻🇺🇸🇺🇸🇺🇸🇺🇸>
+654 1 <❤️>
 656 1 <🇱🇷>
 663 1 <🌹🌹🌹👏👏>
 665 1 <🇺🇸👏😭>
+687 1 <#we_want_regime_change_in_iran>
 692 1 <🇺🇸❤️😊👍>
+712 1 <F>
 716 1 <🙏🏽🙏🏽>
+725 1 <👏👏👏>
 732 1 <🇺🇸😢>
 742 1 <👊>
 743 1 <😭😭😭😭😭😭>
+749 1 <F>
+762 1 <Rip>
+770 1 <@alphaeagle1776>
+776 1 <😂>
+783 1 <RIP>
 790 1 <😂😂😂😂😂😂😂>
+791 1 <Amen>
 802 1 <🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷>
 811 1 <อาเม🙌❤️>
 812 1 <#RIP41🙏🇺🇸🇺🇸🇺🇸>
+818 1 <🐐>
+843 1 <👏🏻👏🏻👏🏻👏🏻👏🏻>
+844 1 <👏🏻👏🏻👏🏻👏🏻👏🏻>
 849 1 <Fraud.>
 854 1 <🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻>
 855 1 <TRUMP@2020!!🇺🇸>
+860 1 <Respect>
+892 1 <🙏🇺🇸>
+902 1 <🇺🇸🇺🇸🇺🇸>
+904 1 <#we_want_regime_change_in_iran>
+930 1 <😢>
+937 1 <❤️❤️❤️❤️❤️❤️>
+942 1 <🙏🙏>
+946 1 <#RIP>
+959 1 <👏>
 961 1 <🙏❤>
+962 1 <@bigdelly98>
+970 1 <🙏🙏🙏>
+976 1 <🌹>
 980 1 <RIP.>
 991 1 <😭🇺🇸❤️>
 992 1 <Power>
 994 1 <Merica!!!🔥>
 999 1 <🙏🏻>
 1000 1 <https://michaellemon.hearnow.com/eachdecember>
+1001 1 <👍>
+1002 1 <🇺🇸>
 1006 1 <💘🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
+1020 1 <👍🏻>
+1031 1 <❤️🇺🇸>
+1039 1 <🙏🙏🙏🙏🙏🙏>
 1064 1 <Rip🙏>
 1068 1 <*captured>
+1079 1 <F>
 1080 1 <🌹🍎>
 1081 1 <@jonteoh23>
+1083 1 <😢😢😢>
+1088 1 <Wonderful>
 1090 1 <🙏💪🇺🇸🇺🇸🇺🇸💖>
 1094 1 <❤️🙏>
 1097 1 <😍>
 1102 1 <🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸❤️>
+1115 1 <Sad>
+1117 1 <🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
+1123 1 <❤️>
 1130 1 <🥁>
 1131 1 <🥁🥁🥁🥁🥁>
 1137 1 <*>
@@ -117,994 +208,847 @@
 1216 1 <RIP❤️⚾️💙>
 1217 1 <⚱⚱⚱>
 1219 1 <Xlvi>
+1228 1 <♥️>
+1238 1 <❤️>
+1244 1 <👍>
 1246 1 <🇺🇸🇺🇸❤️❤️❤️>
+1249 1 <😢>
 1250 1 <🙏😭😭😭😭😭😭😭😭🇵🇱>
 1251 1 <🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
 1252 1 <🙏🙏🙏🙏🙏🙏🙏🙏>
+1254 1 <F>
 1261 1 <😞😞😞😳😳😳>
 1263 1 <🇺🇸🇺🇸🌷🌷🌷🌷🌷💕💕💕>
+1265 1 <F>
+1267 1 <🙏>
+1268 1 <RIP>
+1285 1 <🙏🙏>
 1290 1 <Siiiiiii>
 1301 1 <#annoyingorange>
 1305 1 <Armen>
+1306 1 <🙏🙏🙏🙏🙏🙏>
 1307 1 <الفااااتحه>
+1308 1 <❤️>
 1309 1 <😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢🌼>
 1313 1 <🙏😔🇺🇸😔🙏>
 1336 1 <Nj>
 1348 1 <😈😈😈😈😈😈😈😈>
+1358 1 <F>
+1360 1 <👍>
 1364 1 <Respet🇺🇸🇵🇷>
+1373 1 <👍>
+1375 1 <#maga>
+1376 1 <🙏🙏🙏🙏🙏>
+1377 1 <🙏🙏🙏🙏🙏>
+1379 1 <😢>
 1382 1 <😫😫😫😫😫😫😫😫>
 1391 1 <LOVELY>
 1400 1 <💖🇺🇸💖🇺🇸💖>
 1405 1 <💟💞😇👼💜☀💜☀💜💜💜>
+1407 1 <👀>
+1411 1 <#death_to_khamenei>
+1413 1 <#death_to_khamenei>
 1414 1 <#death>
 1416 1 <#khamenei_terrorism_>
 1418 1 <@dom_waters>
+1424 1 <🇺🇸♥️🇺🇸>
 1425 1 <💖🌹>
 1430 1 <🔥🔥🔥👹>
 1431 1 <🇺🇸🇺🇸🇺🇸✨🕯✨🇺🇸🇺🇸🇺🇸🙏>
 1434 1 <👏👏👏👏👏😞>
 1438 1 <😟✋>
 1445 1 <TRUMP💪💪💪>
+1446 1 <RIP>
+1449 1 <✊🏾🇷🇺😎🔥>
+1450 1 <✊🏾🇷🇺😎🔥>
+1451 1 <✊🏾🇷🇺😎🔥>
+1454 1 <❤️>
 1458 1 <💔💔>
 1471 1 <#ripgeorgehwbush>
+1476 1 <🙏🙏🙏🙏🙏🙏>
+1478 1 <👏>
 1485 1 <🤗🤗🤗🎇🎇🎇🌅🌅🌅💥💥💥🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷🇱🇷💥💥💥🌅🌅🌅🎇🎇🎇👍>
 1495 1 <😮😮>
 1500 1 <💙>
+1515 1 <F>
+1517 1 <Awesome>
+1518 1 <🙏>
+1526 1 <F>
 1532 1 <#president_trump_just_Iran_change_regime>
 1538 1 <Rip🙏🏿🇺🇸💐>
 1539 1 <😍❤️❤️❤️>
 1541 1 <ì❤️❤️👍>
+1542 1 <0>
 1546 1 <🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷😘😘😘😘😘😘😘😘>
 1547 1 <😘😘😘>
 1555 1 <🌹🌹🌹🌹🌹😘❤️🇺🇸❤️🇰🇼🙏🙏🙏🙏🙏🙏🙏🙏🙏🇰🇼🇰🇼🇰🇼🇰🇼🇰🇼🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇰🇼🇰🇼🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇰🇼🇰🇼🇰🇼🇰🇼🇰🇼❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️>
+1565 1 <RIP>
 1569 1 <💝>
+1572 1 <🐐>
+1575 1 <😢>
+1581 1 <F>
 1582 1 <👑🖤>
-1 2 <yo>
+1583 1 <rip>
 3 2 <arriba españa>
-26 2 <Strong>
+28 2 <peepee man>
+29 2 <Bolsonaro 💚🇧🇷>
 31 2 <عشقی ترامپ💖💖👍👍>
-42 2 <👍🏻>
-57 2 <Bolsonaro>
-60 2 <🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕>
-66 2 <🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕>
+34 2 <2020 🇺🇸🇺🇸🇺🇸>
+67 2 <@al_hatton1776 Agree>
 74 2 <@hniye_jafari hello>
 78 2 <💚💛 🇺😔🇸>
+85 2 <@kathleen_niklas helo>
+96 2 <@danielledb88 lololololololololol>
+110 2 <@danielledb88 false>
+124 2 <@zohrerjbr ❤️❤️>
 129 2 <العار مات>
-273 2 <👀>
-288 2 <@bigdelly98>
-318 2 <#RIP>
-364 2 <🌹>
-380 2 <🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
+135 2 <Amen 🙏🌿💐❤️>
+139 2 <🙏 @realdonaldtrump>
+158 2 <@diego_gipson Agreed>
+182 2 <Rip #41>
+236 2 <RESPECT. 🇺🇸>
+255 2 <@deplorabledefenders 👏>
+257 2 <@danielledb88 👏>
+258 2 <@bobby_baccooon true🔥💪💪>
+265 2 <@kathleen_niklas 🔥🤣👏👏>
+266 2 <@chelseaeiben lol>
+270 2 <@al_hatton1776 👏👏👏>
+295 2 <@danielledb88 #maga>
+300 2 <Help me>
+301 2 <خداروشکر 👍>
+305 2 <@voted4trump45 😂>
+313 2 <@kian.horton4048 Hey>
+340 2 <like this>
+346 2 <RIP 🌷>
+347 2 <Trump 2020>
+365 2 <@bawbeakari 🤦‍♂️>
+392 2 <@bj_sherman 😂😂😂😂😂>
 396 2 <Hang him💩💩💩💩💩💩>
-412 2 <🙏🏻🇺🇸>
-433 2 <🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
-436 2 <❤️❤️❤️❤️❤️❤️>
+422 2 <Nice service🇺🇸>
+430 2 <@taromi_mahdi douchebag!!!>
+431 2 <Beautiful service>
 451 2 <Esta viajando?>
 458 2 <👉Restart👈👉 iran👈>
+461 2 <@deplorabledefenders 👍🏻👍🏻👍🏻❤️🇺🇸❤️🙏>
+479 2 <@zacharybarber12 @carlykpatt>
 481 2 <یاشاسین ایران🇮🇷🇮🇷💖💖🇮🇷🇮🇷💖💖🇮🇷🇮🇷💖💖🇮🇷🇮🇷💖💖🇮🇷🇮🇷💖💖🇮🇷🇮🇷💖💖🇮🇷🇮🇷💖💖🇮🇷🇮🇷💖💖>
 483 2 <🌏🇺🇸 😥🎉🙏❤>
-517 2 <Wow!>
-545 2 <❤️🇺🇸>
+487 2 <@bawbeakari .>
+490 2 <@bawbeakari .>
+502 2 <@alphaeagle1776 LOL>
+520 2 <@macwagner03 Hillary*>
+535 2 <RIP Bush!🙏🏻>
+553 2 <@flak_tower_supreme_ 😂>
 565 2 <@mz.puente85 😞figures>
+567 2 <Like you?@myhippieplace12345>
 576 2 <Trump2020 😍🇺🇸🇰🇷>
+580 2 <Meus sentimentos!🙏🙏🙏🙏>
+588 2 <i cried>
+591 2 <RIP 41🇺🇸🇺🇸🇺🇸>
+607 2 <@bawbeakari doubtful.>
+608 2 <History making..>
 611 2 <C qui?>
 616 2 <Cool photo!>
-725 2 <👏👏👏>
+620 2 <Very touching❤️️>
+636 2 <@al_hatton1776 Amen!>
+651 2 <RIP Prez>
+715 2 <Rip bush>
+726 2 <الئ جهنم>
+727 2 <THEM Too...>
 730 2 <wait,... nim2>
-818 2 <🐐>
-843 2 <👏🏻👏🏻👏🏻👏🏻👏🏻>
-844 2 <👏🏻👏🏻👏🏻👏🏻👏🏻>
+778 2 <Salute. 🇺🇸>
+780 2 <@mustafaamir8 🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿>
+782 2 <@taromi_mahdi 🗿>
+821 2 <@mr._mattyskeky 🙌>
+833 2 <@china_number__1 Are>
+834 2 <@china_number__1 we>
+836 2 <@china_number__1 ??????>
+845 2 <@deplorabledefenders 🇺🇸❤️🇺🇸❤️🇺🇸>
+895 2 <And Hillary>
+921 2 <@mia.beckman spark*>
 926 2 <WWG1WGA!!! #MAGA!!!>
-937 2 <❤️❤️❤️❤️❤️❤️>
-942 2 <🙏🙏>
-946 2 <#RIP>
+934 2 <@bawbeakari idiot>
+936 2 <Meus sentimentos...😔🌼🌻>
 953 2 <Потащили наконец😨😠>
 960 2 <@nikolas_stancu 👃🏿>
-962 2 <@bigdelly98>
-976 2 <🌹>
-1020 2 <👍🏻>
-1031 2 <❤️🇺🇸>
-1088 2 <Wonderful>
-1117 2 <🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
+1016 2 <A men>
+1024 2 <Crooked Hillary>
+1025 2 <@watchfixer 🤣🤣🤣>
+1065 2 <@watchfixer tough.>
+1099 2 <RIP 41>
+1110 2 <@kimberleerupshaw amen>
+1124 2 <My condolences>
+1125 2 <#we_want_to_regime_change_Iran_ #we_want_to_regime_change_Iran_>
+1126 2 <#we_want_to_regime_change_in_Iran #we_want_to_regime_change_in_Iran>
 1129 2 <Tobe TIME>
 1146 2 <Play answer?>
 1174 2 <Elizabet wilmshurst🦋🦋🦋🦋🦖>
 1182 2 <For exercising>
+1185 2 <Ed.court 3d>
+1202 2 <Time off>
 1213 2 <Ruke shoot😂😂🗻🏏🎪>
+1214 2 <RULE too>
 1226 2 <@cleopatrasgroove 😂😂😂😂🤣🤣🤣>
-1285 2 <🙏🙏>
+1235 2 <Jimmy Carter!!!>
+1272 2 <Condolence America>
+1279 2 <History 🔥>
+1280 2 <@pegmanzer 😂🤣>
+1299 2 <@kathleen_niklas 🤣🤣>
+1300 2 <Great man!>
+1304 2 <@michaelzebley yeah>
+1326 2 <Meus Pênsames✊😔✊😔✊😔>
 1343 2 <#godblesshim makingamericagreatagain>
 1344 2 <Oops #makingamericagreatagain>
 1347 2 <Sac da>
+1370 2 <@bobby_baccooon 😂>
 1378 2 <@ali_karami.1 عشق؟؟؟؟؟؟😞😞>
+1392 2 <🇺🇸 😑💝>
 1394 2 <الحمدلله 💔>
 1399 2 <Gt gt>
-1407 2 <👀>
 1409 2 <@alidacopenhagen so?>
-1424 2 <🇺🇸♥️🇺🇸>
+1412 2 <#death_to_khamenei _terrorism>
+1419 2 <Amazing picture>
+1456 2 <Iran restart>
 1459 2 <buck fush>
-1517 2 <Awesome>
-1542 2 <0>
+1491 2 <@wrenchbouquet 😂😂😂>
+1494 2 <Who's that>
+1534 2 <American idiots!>
 1545 2 <@hashthetically_pleasing #lockherup>
 1552 2 <R.ip George🇺🇸💪>
-1572 2 <🐐>
-1583 2 <rip>
-29 3 <Bolsonaro 💚🇧🇷>
-95 3 <🙏🏼>
-124 3 <@zohrerjbr ❤️❤️>
-149 3 <🙏🏼>
-158 3 <@diego_gipson Agreed>
-165 3 <🙏🏼>
+8 3 <Rest In Peace!>
+18 3 <LOVE YOU 45!!>
+19 3 <YPG YPG YPG>
+25 3 <TRUMP 2020 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
+64 3 <What a picture>
+83 3 <Killary looks miserable>
+107 3 <Looking away 😂>
+132 3 <It’s sad someway>
+143 3 <Hillary’s face omg..>
+162 3 <💒🇺🇸Mr prs Bush>
 170 3 <Third dimension 10000000>
-313 3 <@kian.horton4048 Hey>
-430 3 <@taromi_mahdi douchebag!!!>
-726 3 <الئ جهنم>
-727 3 <THEM Too...>
+203 3 <Obama looks bored>
+205 3 <Thank you Mr.President>
+230 3 <God bless him💖>
+235 3 <lol the Clinton’s>
+261 3 <Bush Killed Kennedy>
+275 3 <UNITED KINGDOM 👑👑👑🎶🎶🎶💞💞>
+391 3 <Everyone standing behind>
+393 3 <@beagle_mom1 Yes Ma’am>
+440 3 <Celebration for WARCRIMINAL‼️👎🏼>
+453 3 <shame on you😏>
+516 3 <سگ تو روحش>
+556 3 <This is sad>
+601 3 <😢😢 Last respect>
+621 3 <Great job @cblanch9>
+649 3 <A beautiful service!❤️>
+701 3 <We LOVE YOU!>
 739 3 <Vatt cocc oì>
-782 3 <@taromi_mahdi 🗿>
-791 3 <Amen>
-860 3 <Respect>
-1025 3 <@watchfixer 🤣🤣🤣>
-1039 3 <🙏🙏🙏🙏🙏🙏>
-1065 3 <@watchfixer tough.>
-1110 3 <@kimberleerupshaw amen>
-1115 3 <Sad>
+764 3 <@bawbeakari dream on.>
+787 3 <God bless 🇺🇸>
+800 3 <CAVU, Mr. President!>
+842 3 <Glória Rip 😢😢😢>
+881 3 <@bobby_baccooon SO RIGHT🤦🏾‍♂️>
+901 3 <Roslyn looks hot!>
+917 3 <@bawbeakari pro faker>
+932 3 <TRUMP 2020 ❤️🎉🎄>
+963 3 <#k_jewelry1985 follow us!💎>
+973 3 <Historic picture ♥️🇺🇸>
+986 3 <GOD BLESS AMERICA.>
+998 3 <Is killary sleeping?>
+1013 3 <😞Rip my guy>
+1028 3 <Beautiful ceremony! 🙏🏻❤️🇺🇸✝️>
+1029 3 <قاتل بوش پدر>
+1034 3 <Went to hell🔥🔥🔥🔥🔥🔥>
+1055 3 <Even more SeatFillers💸🍟🍟🍟🍟🍟🍔🍟🍟>
+1056 3 <@bobby_baccooon get help.>
+1061 3 <RIP 41 🙏>
+1062 3 <@notorious.connorb thats racist.>
+1069 3 <Find the trump>
+1108 3 <God bless 🙏>
+1139 3 <CHANGE your organ>
+1140 3 <#we_want_to_regime_change_Iran_ #we_want_to_regime_change_Iran_ #we_want_to_regime_change_Iran_>
+1141 3 <#we_want_to_regime_change_Iran_ #we_want_to_regime_change_Iran_ #we_want_to_regime_change_Iran_>
 1144 3 <@ryanvmonk LOL....Good one!👍>
+1155 3 <Qeen WELCOME hi>
+1161 3 <ترامپ خر است😂😂😂🤦🏻‍♂️>
+1166 3 <Phone told hi>
+1170 3 <WANT build 3d🦋🦋🦋🦋🦋>
 1175 3 <Council rule loleh😂😂😂😂🦋>
+1176 3 <تسلیت میگم ترامپ>
+1194 3 <Juric dictionaries.......i hi>
+1196 3 <Icc non not>
+1207 3 <Crminal black dragon>
+1208 3 <Juri big BROTHER>
+1218 3 <Code for UNDERSTAND>
 1223 3 <#@#PSG X4 😂😂😂😂🚀>
-1304 3 <@michaelzebley yeah>
-1306 3 <🙏🙏🙏🙏🙏🙏>
+1232 3 <Whitaker terminator stare>
+1234 3 <Take the L>
+1303 3 <@nik.musgrave Thank you>
 1314 3 <@raperkelley Absolutely agree.>
+1318 3 <مراسم سینه زنیه😁>
 1334 3 <Poor hillary. Lololol>
-1376 3 <🙏🙏🙏🙏🙏>
-1377 3 <🙏🙏🙏🙏🙏>
+1339 3 <@vincent_blain cum bag>
+1350 3 <He’s born free>
 1385 3 <@fatimapanahi67 خب عشقه😊>
-1411 3 <#death_to_khamenei>
-1413 3 <#death_to_khamenei>
-1449 3 <✊🏾🇷🇺😎🔥>
-1450 3 <✊🏾🇷🇺😎🔥>
-1451 3 <✊🏾🇷🇺😎🔥>
-1476 3 <🙏🙏🙏🙏🙏🙏>
-1491 3 <@wrenchbouquet 😂😂😂>
-65 4 <🙌>
-135 4 <Amen 🙏🌿💐❤️>
-220 4 <Nice>
-378 4 <😢😢😢>
-382 4 <😢😢😢>
+1404 3 <@bawbeakari 😂😂😂😂 wrong>
+1417 3 <درود بر امریکا❤❤❤❤❤❤>
+1422 3 <God bless him>
+1426 3 <Well Done Mr.President.🇺🇸>
+1433 3 <Ilove you Trump>
+1455 3 <@fancifulmason9 well said>
+1483 3 <@notorious.connorb keyboard warrior.>
+1501 3 <Service over self>
+1504 3 <All the best.>
+1512 3 <@bawbeakari moronic !>
+1523 3 <@nossanna your right!>
+1549 3 <Obama is love❤️❤️❤️>
+1554 3 <Carter wasn't there?>
+9 4 <Haha look at Hilary>
+27 4 <Stay politically incorrect ❤️>
+49 4 <God bless us all>
+91 4 <Latins united for Trump!>
+118 4 <Odumbo wasn’t a president>
+136 4 <@zacharybarber12 he looks 12💀😂>
+145 4 <@kathleen_niklas haha what 😂>
+147 4 <@realdonaldtrump y Venezuela cuando>
+152 4 <@chelseaeiben it’s a funeral...>
+161 4 <#we_want_regime_change_in_iran Viva prince #rezapahlavi>
+164 4 <#we_want_regime_change_in_iran Viva prince #rezapahlavi>
+177 4 <ترامپ خاک تو سرت>
+185 4 <My goodness! The picture>
+187 4 <🇺🇸God Bless the USA>
+238 4 <👏👏👏Full respect to this.>
+279 4 <Your daughter is hot>
+289 4 <What a great picture!>
+298 4 <Pic sums it up!>
+321 4 <مرد بزرگ #ترامپ ♥️>
+326 4 <Trump with blue tie...👏>
+328 4 <Americans hate you Trump>
+342 4 <Just let him go.>
+343 4 <Viva president trump 🙏🏻❤️❤️❤️❤️❤️🌹>
+379 4 <Wow!! What a group!!!>
+397 4 <@bawbeakari for what exactly?>
+399 4 <@zacharybarber12 heaven hate you>
 401 4 <Mr:TRUMP =kuorosh IRANIAN 🌹🌹🌹💖💙💙💙❤❤❤💘>
+403 4 <The world hates you>
+414 4 <#MAGA ,baby! #KAG ❤️>
+437 4 <Rest in peace 🇺🇸🙏>
+443 4 <The Greatest Generation 🇺🇸🙏🏻>
+452 4 <rest in peace 🙏>
+455 4 <rest in peace 🇺🇸>
+484 4 <@bobby_baccooon Yes, more deplorables.>
 501 4 <@officialrezapahlavi ✌🏻💙✌🏻 iran ⬅️⬅️😍>
-578 4 <🙏🇺🇸>
-595 4 <R>
-780 4 <@mustafaamir8 🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿>
+528 4 <Thank you Mr President!🇺🇸>
+552 4 <RIP former President Bush>
+555 4 <@bawbeakari still beat tho>
+564 4 <God rest 41! 😓🙏🏻🇺🇸>
+571 4 <What a Gentleman ❤️🙏🇺🇸🇺🇸>
+585 4 <Obama looks upset 😂😂😂😂😂😂>
+605 4 <Obama looks so good🤤>
+609 4 <USA, USA, USA 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
+652 4 <@paula_jo_davenport yes i Have>
+657 4 <Please Help Venezuela 's>
+674 4 <R.I.P. MR. Bush. 🙏🙏🙏🙏🙏🙏🙏🙏🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
+677 4 <Ele era presidente tbm?>
+681 4 <@bawbeakari mentally deranged Libtard!!!>
+700 4 <hillary always lurking smh>
+713 4 <Semper fi president Bush>
+718 4 <I'm seeing don't care-care..>
+724 4 <Wow we like this>
+731 4 <Rip George HW Bush>
+737 4 <Well Dan President Trump>
+792 4 <@bawbeakari your a idiot>
+796 4 <Lmfao the man carter>
+797 4 <@china_number__1 😂😂😂😂 simple mind>
 822 4 <LOCK HER UP! 💪🇺🇸>
-892 4 <🙏🇺🇸>
-959 4 <👏>
-1083 4 <😢😢😢>
-1170 4 <WANT build 3d🦋🦋🦋🦋🦋>
-1185 4 <Ed.court 3d>
-1228 4 <♥️>
-1232 4 <Whitaker terminator stare>
-1280 4 <@pegmanzer 😂🤣>
-1375 4 <#maga>
-1412 4 <#death_to_khamenei _terrorism>
-1478 4 <👏>
+829 4 <RIP PRESIDENT BUSCH 🇺🇸🇺🇸>
+837 4 <@china_number__1 I love trolls>
+846 4 <Obummer looks bummed out😡>
+856 4 <Love this guy !>
+857 4 <Thank you for sharing.>
+871 4 <Rip gorgie bush ‘41>
+872 4 <Sign the farm bill!>
+916 4 <Hateful comments not welcome>
+928 4 <Wellcom to the hell😂😂>
+933 4 <Look at her face>
+940 4 <RIP 41! GOD Speed>
+941 4 <Rest in peace Mr.Bush>
+990 4 <@bawbeakari Not.here Not Now>
+997 4 <@chelseaeiben Because she is!!>
+1008 4 <Who dead pls reply>
+1019 4 <Great job Mr President>
+1023 4 <Michelle looks mad! 😠>
+1044 4 <4 with one deceased>
+1046 4 <Another warmonger passed away>
+1052 4 <@volosinmartha2016 ? Speak English>
+1054 4 <@lilronnie528 lack of respect?????😂😂😂>
+1057 4 <@puck45 Military is rogue>
+1058 4 <@brotherputh thats just racist.>
+1082 4 <@mazzie24 true as hell!🇺🇸>
+1103 4 <Yes! History captured today!🇺🇸>
+1127 4 <@bawbeakari for what exactly?>
+1133 4 <Rest in peace #GeorgeHWBush#>
+1136 4 <RESPECT to your stars>
+1153 4 <Off money to THEM>
+1158 4 <Wonderful job Mr President>
+1169 4 <Section again 16_ 3b>
+1173 4 <BECUSE YOU DEAR DAD>
+1180 4 <Nice job Hilaryyyyyy.... NOT>
+1193 4 <Giuseppe nessi like messi😂>
+1197 4 <With the international hiche>
+1205 4 <#rusian big limited but....>
+1220 4 <YOUR EXEL DOWN 😂😂😂🦋🦋🦋>
+1273 4 <Awesome!! Love, love this!!!😮😮😍😍💪💪🙏🏻🙏🏻>
+1286 4 <ترامپ درحال سینه زدن>
+1294 4 <Look at hillarys face>
+1295 4 <God bless you both>
+1337 4 <روحش شاد ویادش گـــرامی🙏🇺🇸>
+1354 4 <GOD BLES AMERIKA 🙏🙏🙏>
+1356 4 <@lil_lombardi33 Catholics are Christians>
+1365 4 <خدا همتونو لعنت کرد.لعنتیا>
+1423 4 <@platinum_ida oh yea 🙄🙄🙄😂>
+1432 4 <Bush was the swamp>
 1499 4 <Ngushëllime nga Shqipëria 🇦🇱🇺🇸🇦🇱🇺🇸🇦🇱🇺🇸>
 1502 4 <Q, E, P, D>
-275 5 <UNITED KINGDOM 👑👑👑🎶🎶🎶💞💞>
-392 5 <@bj_sherman 😂😂😂😂😂>
-422 5 <Nice service🇺🇸>
-480 5 <@future.marine_usmc>
-520 5 <@macwagner03 Hillary*>
-620 5 <Very touching❤️️>
-677 5 <Ele era presidente tbm?>
-687 5 <#we_want_regime_change_in_iran>
-904 5 <#we_want_regime_change_in_iran>
+1506 4 <Is that Dan Quayle??>
+1522 4 <I loved George Bush!>
+1524 4 <Time to move on>
+1525 4 <He ruined Obama's legacy>
+1528 4 <Peace be with him>
+1553 4 <God bless America 🇺🇸🇺🇸🇺🇸🇺🇸>
+1580 4 <Rot in pieces maggot>
+36 5 <RIP from all of Germany>
+39 5 <rest in peace gearge 🅱️ush>
+73 5 <Someone Make Germany Great Again>
+82 5 <Fs in the chat chief>
+97 5 <@brodyjohnson20 nothing wrong with Clinton?>
+105 5 <Bill is checking out Michelle>
+112 5 <It was a beautiful service.>
+117 5 <@voted4trump45 you spotted the difference!>
+201 5 <@voted4trump45 right?! What’s his deal????>
+211 5 <We love our president#megaRIP 41.>
+217 5 <Bill lookin like a Goon>
+218 5 <عشق من هستی آقای ترامپ>
+225 5 <@realdonaldtrump #we_want_regime_change_in_iran Viva prince #rezapahlavi>
+243 5 <Hillary isn't in jail 😫>
+247 5 <@bawbeakari what a stupid comment>
+260 5 <@zacharybarber12 today is about H.W.>
+293 5 <@brotherputh 😂😂 nice comment 😂😂>
+303 5 <@3ku111 dumbo 💯😩 TRUMP 2020🇺🇸🇺🇸🇺🇸>
+330 5 <Hilary’s expression is pure evil.>
+388 5 <زنده باد صلح و دوستی>
+394 5 <Clinton cant find his heart...>
+395 5 <@evantflynn Obama’s are pathetic! 😢😢>
+402 5 <It was a beautiful service>
+404 5 <Damn carter لعنت بر کارتر>
+417 5 <Very sad but beautiful funeral.>
+426 5 <One President and 4 Traitors>
+491 5 <Which five? I see three>
+499 5 <Rest In Peace American Hero🇺🇸😢>
+504 5 <It’s Bush #41 not #43!>
+525 5 <Opgeruimd staat netjes.. Hands down.>
+537 5 <@sourpatch_84 lmfao I got blocked>
+581 5 <@lisstehe like Trump did 👍>
+584 5 <👍🙏👍🙏👍🙏 great job President Trump>
+600 5 <Parabéns. .. bom trabalho 🙌>
+615 5 <Michelle Obama truly digsuested me.>
+617 5 <XD Obama don't look happy>
+661 5 <@ztmiller54 you’re in this picture!!!>
+721 5 <@miller.magic is that you there???>
+747 5 <@sourpatch_84 that's a dumb comment>
+768 5 <Forever missed love Tasha Danderson.>
+775 5 <41 obviously wasn’t feelin me>
+806 5 <Love him! ❤️ God Bless>
+807 5 <There’s the reason you stand>
+815 5 <CLASS ACT ..,,,,,,🇺🇸 History CAPTURED..,,,🇺🇸>
+824 5 <What are you looking at?>
+832 5 <Does anyone love abortions ?>
+859 5 <Who is that wants seating.>
+882 5 <you arrest a Chinese illegally>
+905 5 <@bawbeakari this ain’t it chief>
+909 5 <Rest In Peace President Bush>
 938 5 <Достали уже эти гробы постить>
-1339 5 <@vincent_blain cum bag>
-1426 5 <Well Done Mr.President.🇺🇸>
-1456 5 <Iran restart>
-1483 5 <@notorious.connorb keyboard warrior.>
-79 6 <🙏🙏🙏>
-96 6 <@danielledb88 lololololololololol>
-110 6 <@danielledb88 false>
-421 6 <🙏🙏🙏>
-442 6 <🙏🙏🙏>
-580 6 <Meus sentimentos!🙏🙏🙏🙏>
-603 6 <🙏🙏🙏>
-608 6 <History making..>
-821 6 <@mr._mattyskeky 🙌>
-936 6 <Meus sentimentos...😔🌼🌻>
-970 6 <🙏🙏🙏>
-1155 6 <Qeen WELCOME hi>
-1194 6 <Juric dictionaries.......i hi>
-1207 6 <Crminal black dragon>
-1318 6 <مراسم سینه زنیه😁>
-1326 6 <Meus Pênsames✊😔✊😔✊😔>
+951 5 <Oh yes fatherrrr oooooooh yes>
+964 5 <Id rate his presidency 9/11>
+972 5 <I wish rest in peace>
+975 5 <Yo Jimmy’s still alive? Wow>
+981 5 <I prayed for you today.>
+987 5 <That is a great photo.>
+988 5 <@zacharybarber12 Not here. NOT Now.>
+1004 5 <Shouldn't HW get #41 ?>
+1051 5 <Hillary looking miserable, as usual...lol>
+1072 5 <کیر من ملانیا رو میخواد>
+1075 5 <God Bless you President Trump🇺🇸🇺🇸🇺🇸🇺🇸👏🏻>
+1093 5 <Trump’s orange tan looks great!😍😍😍>
+1105 5 <Hilary looks so unhappy, lol>
+1154 5 <#we_want_to_regime_change_in_Iran #we_want_to_regime_change_Iran_ #we_want_to_regime_change_in_Iran #we_want_to_regime_change_in_Iran #we_want_to_regime_change_in_Iran>
+1157 5 <#we_want_to_regime_change_Iran_ #we_want_to_regime_change_Iran_ #we_want_to_regime_change_in_Iran #we_want_to_regime_change_in_Iran #we_want_to_regime_change_in_Iran>
+1162 5 <You phd i have hichi😂😂😂>
+1164 5 <What are you looking at!>
+1167 5 <Court nornberg here up 😂😂❄😂🦋>
+1181 5 <The simple come up jurisdictional>
+1184 5 <Tag organ if....let 0r not>
+1186 5 <High criminal where is crimes>
+1189 5 <Why billls fingers so long?>
+1200 5 <Bring the pain Mr. President!!!!>
+1210 5 <E e 1 EYE DRAGON>
+1212 5 <@#CRIST ianooo cut back loleh>
+1215 5 <3d camo kam kam jam>
+1243 5 <Down with usa and trump>
+1256 5 <آخه شاسکول به تو چه😐>
+1282 5 <Senior Bush rest in peace>
+1310 5 <George H W BUSH #43?>
+1328 5 <الا جهنم الحمره انشاء الله>
+1331 5 <لعنة الله عليكم يا حيوانات>
+1374 5 <@amirusein مراسم سینه زنی باحضورعموترامپ>
+1406 5 <درود برریس جمهور آمریکا ترامپ>
+1437 5 <@susanus57 what did She say>
+1486 5 <😍😍😍 FOLLOW ME HANDSOME 😍😍😍>
+1527 5 <Rip the old strong man>
+1562 5 <Has he always been insane?>
+1573 5 <Great job Mr. President 🇺🇸👍.>
+87 6 <@brodyjohnson20 Google child trafficking clinton foundation>
+101 6 <Military never lets us down. Fantastic>
+144 6 <É o enterro do Capitão América?>
+148 6 <@brodyjohnson20 killing babies is a problem>
+178 6 <Put him in the ground already.>
+193 6 <قیافه زن کارتر و نگاه کنید.😂>
+194 6 <@zacharybarber12. TODAY IS ABOUT PRESIDENT BUSH.>
+198 6 <Pence up front too. Squad thick>
+246 6 <@macwagner03. THIS GOES FOR U 2.>
+262 6 <@bawbeakari You are so stupid 😂😂>
+315 6 <@imlike87 more people agree with me...BOOM>
+317 6 <Look how enthused Michelle Obama is!>
+338 6 <Today, Americans came together & listened.>
+357 6 <ناهار چی دادین بعد از خاکسپاری؟😎>
+360 6 <@bawbeakari wtf stop bieng a Nigerian>
+368 6 <Honor Guard rocked it as usual>
+416 6 <@macwagner03 such a sower face 👿😢>
+448 6 <They didn’t want you there @realdonaldtrump>
+454 6 <RIP Mr. President George H.W.Bush !!!>
+524 6 <Trump sure does stand out lol>
+548 6 <Made a typo. GHWB was #41>
+623 6 <You did well Mr President Trump>
+647 6 <Well, four presidents and one clown>
+659 6 <WHO LET THE OMPA LOMOPA LOOSE????????>
+664 6 <Stop the mocking comments geez 👈🏻>
+668 6 <@chelseaeiben You got that right.... killary>
+669 6 <@bj_sherman big ol man Michelle/Michael. Lol!>
+686 6 <Such a beautiful, touching funeral 💕🇺🇸>
+691 6 <One love brings peace and happiness>
+697 6 <Look at Hillary’s smug face... HAHA!>
+738 6 <Look at the obamas hateful faces>
+740 6 <Too bad it's not for Hillary!>
+761 6 <@carlaandrea946 mrs Obama was no better>
+765 6 <@mr._mattyskeky trump does not drink. Lol>
+774 6 <@lindah6168 i mean liquid on general>
+777 6 <BEST DAMN PRESIDENT EVER #MAGA 🇺🇸🇺🇸>
+817 6 <@sourpatch_84 also another dumb comment😂 😂😂>
+850 6 <proud of you Mr President 🇺🇸🇺🇸>
+862 6 <Love love love this pic!! 🇺🇸>
+873 6 <The contrast between presidents is remarkable>
+879 6 <Release the JFK files Don! WWG1WGA>
+885 6 <Your The Best President Ever! 🔥❤️🔥🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸#WWG1WGA>
+891 6 <Obama was there o my gosh>
+896 6 <@Zach charybarber12 Cause he’s the POTUS>
+944 6 <again dude. can we play fortnite?>
+956 6 <@snow3603 how could I forget! 🤦🏻‍♂️>
+979 6 <This is a really good picture>
+983 6 <Shoutout Hillary with her arms crossed>
+1032 6 <Fatso is such a loathsome loser.🐷>
+1037 6 <Jimmy carter my man still kicking>
+1047 6 <@ashlelarsen sweetie he's one of you😂>
+1086 6 <@hallryland202 thank you for your service.🇺🇸>
+1120 6 <Thank you and God bless you🇺🇸>
+1134 6 <RESPECT to your people need UNDERSTAND>
+1145 6 <Table LAHEH on line 🙃 JUDGE>
+1149 6 <16 too close to BY e>
+1156 6 <@007reflect hate is a choice. 😢>
+1165 6 <0 me come answer no fair>
+1172 6 <28 section × multi 3d HONEY>
+1177 6 <Of security on line funny tifaniii>
+1190 6 <State nation all laheh door open>
+1206 6 <God bless you President Trump ❤️>
+1239 6 <🐧🐧🐧🐧🐧🐧🐧🐧⚰️ 🐧🐧🐧🐧 🐧 🐧 🐧 🐧>
+1266 6 <@farhad.navazandeh say this to my hotdog>
+1297 6 <Glad those Others are gone.... #Onward>
 1357 6 <MAKE➕💲5000 ➕OVERNIGHT ➕NO UPFRONT FEE NEEDED➕💰💰➕HMU>
-2 7 <1>
-321 7 <مرد بزرگ #ترامپ ♥️>
-461 7 <@deplorabledefenders 👍🏻👍🏻👍🏻❤️🇺🇸❤️🙏>
-845 7 <@deplorabledefenders 🇺🇸❤️🇺🇸❤️🇺🇸>
-1028 7 <Beautiful ceremony! 🙏🏻❤️🇺🇸✝️>
-1029 7 <قاتل بوش پدر>
+1398 6 <@alphaeagle1776 yeah! You and the criminals.>
+1441 6 <Notice President Carter and wife. 👎🏻>
+1442 6 <@paula_jo_davenport I miss him every day>
+1472 6 <On the the way to dump.>
+1493 6 <President Trump is a class act.>
+1505 6 <@chelseaeiben hope she's crapping her bloomers.>
+1516 6 <God bless you and your family.>
+1559 6 <rip you will be honored bush>
+1564 6 <کی بیم تشییع جنازه تو انشالا🙌🙌>
+1571 6 <Ole Barry looks like he’s smirking.>
+55 7 <@brodyjohnson20 that’s where you are wrong kiddo>
+56 7 <@macwagner03 I’m afraid of going blind!! 😎>
+63 7 <Like if you support all 45 presidents!>
+84 7 <JFK not saluting I mean Jimmy Cater😂😂😂>
+93 7 <Jimmy Carter taking the option #Qanon #MAGA>
+140 7 <Crooked Hillary looks miserable.. what’s wrong? 🤣🤣🙌🏼🇺🇸🍿🙏🏼>
+141 7 <@puck45 hehe I guess you are one>
+160 7 <One less member of the Bohemian Grove?>
+166 7 <Hilary about to fall over any second.>
+186 7 <No one will go to obama funeral>
+206 7 <President Bush43 gave such a wonderful eulogy.>
+253 7 <@realdonaldtrump He “lay” in State (not “lied”).>
+277 7 <Hillary’s wondering who’s carrying her out afterward.>
+285 7 <@alphaeagle1776 well you're not a true Republican>
+304 7 <Rest In Peace George H. W. Bush!>
+316 7 <How are the Clinton’s not in jail?>
+319 7 <@bawbeakari don’t think so! MAGA Trump 2010>
+332 7 <Meus pêsames a tudo povo americano 🇺🇸🇺🇸>
+344 7 <Bill has them long nasty fingers bruh!>
+362 7 <What is this man looking at @donsesti>
+373 7 <#vivatrump 🇺🇸🇺🇸🇺🇸💙💙💙💙💙#vivaamerica 🇺🇸🇺🇸💙💙💙💙💙💙#vivairan 💙💙💙💙💙💙#vivashahzadehrezapahlavi 👑💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙 @realdonaldtrump 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸💙>
+374 7 <#vivatrump 🇺🇸🇺🇸🇺🇸💙💙💙💙💙#vivaamerica 🇺🇸🇺🇸💙💙💙💙💙💙#vivairan 💙💙💙💙💙💙#vivashahzadehrezapahlavi 👑💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙 @realdonaldtrump 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸💙>
+463 7 <I can't stand looking at CORRUPTION (clintons)!>
+478 7 <We are power USA and IRN 💪💪💪💪>
+486 7 <Look at the criminals to the right😂>
+561 7 <Why is that nasty witch there? 😠>
+575 7 <RIP President Bush your with Barbara now❤️>
+586 7 <The only true President Donal J Trump>
+628 7 <Awesome man and GREAT PRESIDENT PERIOD Trump>
+630 7 <@bawbeakari you mean the Obamas and Clinton's.>
+635 7 <Hillary you’re next, no hoopla for you.😂>
+639 7 <@3ku111 kavanaugh is innocent! But you’re not!🇺🇸>
+667 7 <Beautful service. Still dont know why Bill>
+675 7 <@michaelclayton87 President Trump Commander In Charge. 🇺🇸>
+714 7 <@myhippieplace12345 your are too ignorant for words.>
+744 7 <@bawbeakari and so is your mom 👎>
+746 7 <The video shows all..obamas and Clinton's insincerity>
+748 7 <Half this picture should be in prison>
+756 7 <@myhippieplace12345 Hawaii is part of America 🤷🏼‍♀️>
+831 7 <@china_number__1 Thank You have a nice day>
+852 7 <Those clowns f’d up this photo. #MAGA>
+869 7 <He was the 41 not the 43.>
+888 7 <@zacharybarber12 wish there was a dislike button>
+907 7 <DM ME FOR X’s NEW ALBUM ‘skins’>
+922 7 <@mia.beckman they did surgery on a grape>
+924 7 <@mia.beckman appreciate you having my back 😏>
+931 7 <@alphaeagle1776 Let’s not forget Monica ~ #sayhername>
+984 7 <@alphaeagle1776 Seriously. ... deplorables are exausting💩💩💩on you>
+1040 7 <The faces from obama and clinton 😂😂😂😂😂>
 1042 7 <Ты крутой чувак, сделаем США снова великой,>
-1062 7 <@notorious.connorb thats racist.>
-1166 7 <Phone told hi>
-1279 7 <History 🔥>
+1049 7 <Rest In Peace George H. W. Bush>
+1085 7 <Billie’s Heart is lower than his lung>
+1091 7 <You should not have have been there.>
+1098 7 <@bawbeakari maybe to go visit Hillary hahaha.>
+1121 7 <Meus Sentimentos a Família e amigos.. 🇧🇷>
+1148 7 <Section 28 nice for i go home>
+1160 7 <Lobnan section 4 you need bad buildings>
+1183 7 <It is now T time until ....>
+1187 7 <The icc cc cc cc MODEL nodel>
+1204 7 <Im sure can not answer loleh yep>
+1283 7 <Look at the Hillarys face🤣.shame on her>
+1298 7 <روحش شاد باد ،،،روانش قريب رحمت الهي🌺>
+1321 7 <And two traitors of the nation #clintonsgotogitmo>
 1359 7 <Canın Cehenneme Pis Herif Gerberdin george hwbush>
-6 8 <First>
-50 8 <👍>
-85 8 <@kathleen_niklas helo>
-265 8 <@kathleen_niklas 🔥🤣👏👏>
-393 8 <@beagle_mom1 Yes Ma’am>
-567 8 <Like you?@myhippieplace12345>
-590 8 <👍>
-921 8 <@mia.beckman spark*>
-963 8 <#k_jewelry1985 follow us!💎>
-1001 8 <👍>
-1008 8 <Who dead pls reply>
-1220 8 <YOUR EXEL DOWN 😂😂😂🦋🦋🦋>
-1244 8 <👍>
-1299 8 <@kathleen_niklas 🤣🤣>
-1360 8 <👍>
-1373 8 <👍>
-1374 8 <@amirusein مراسم سینه زنی باحضورعموترامپ>
-19 9 <YPG YPG YPG>
-257 9 <@danielledb88 👏>
-295 9 <@danielledb88 #maga>
-301 9 <خداروشکر 👍>
-815 9 <CLASS ACT ..,,,,,,🇺🇸 History CAPTURED..,,,🇺🇸>
+1366 7 <Trump, you are the best president !!!!>
+1371 7 <به درک واصل شده ...خدا لعنتش کنه>
+1436 7 <@shirleyatorres yes. More beautiful than Obama's wifeb>
+1469 7 <😂 ölüm düğünümüzdür.. Ne mutlu TÜRKÜM diyene>
+1492 7 <@carlaandrea946 she campaigning lol every opportunity counts😂>
+1503 7 <Praying for you and your Mr. Trump>
+1509 7 <Four Presidents and one orange Russian agent.>
+1519 7 <That’s really cool 5 Presidents are together!>
+1520 7 <Don’t hurt yourself there Obama and Killary>
+1568 7 <@king45moses You seem obsessed, just sayin ‘>
+13 8 <@hazebro_ first mf comment let's get it 😤😤💪💪>
+43 8 <@zacharybarber12 there's nothing wrong with Clinton or abortions>
+47 8 <Trump is going from the funeral to prison>
+58 8 <@bawbeakari you have no respect you pathetic loser>
+80 8 <Class act you are, President and First Lady.>
+113 8 <Carter, if he could, would take a knee👏>
+168 8 <A WONDERFUL TRIBUTE TO A WONDERFUL MAN. ❤>
+202 8 <@al_hatton1776 yes he did! #obamas are hating it.>
+212 8 <@bawbeakari if we knew his schedule..like you say>
+214 8 <God bless the Bush family, and our nation>
+215 8 <Our beautiful President Trump and Melania looked special>
+216 8 <@1a_saraa تو پروفایلت زدی سیاستمدار😃😃ساندیس#we_want_regime_change_in_iran Viva prince #rezapahlavi>
+242 8 <@w64him Tis a well deserved honor 🏅 💞🇺🇸>
+264 8 <داداش خدا بيامرزتش ، غم اخرتون باشه 😢>
+283 8 <Rip 41! A great American President! God bless!>
+286 8 <@bawbeakari keep wishing your disappointment is a guarantee>
+307 8 <@patkray just as much as you or I!>
+345 8 <Where is Donnie Dimwit looking? Show some respect>
+370 8 <Hillary Clinton face when president Trump arrived 🤣🤣🤣🤣>
+385 8 <@realdonaldtrump now can we lock them all up?>
+398 8 <Wonder if @realdonaldtrump talked to Hillary at all>
+424 8 <@bawbeakari Back to your coloring books troll...🇺🇸🇺🇸Trump 2020>
+457 8 <🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸MR. PRESIDENT 41 YOU WILL BE MISSED!! 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
+472 8 <@kamrenporche like they all do now be honest.>
+482 8 <@alphaeagle1776 no, who doesn't love killing other humans>
+493 8 <@alphaeagle1776 don't worry all human beings are criminals>
+518 8 <@brodyjohnson20 all 44...this last one is a joke.>
+592 8 <God bless the United States of America ❤️❤️❤️❤️❤️❤️❤️❤️>
+598 8 <@future.marine_usmc no one has put there differences aside>
+642 8 <@myhippieplace12345 President Trump United States Commander In Chief.🇺🇸>
+648 8 <@bawbeakari President Trump United States Commander In Chief.🇺🇸>
+658 8 <@future.marine_usmc Sad, we could accomplish so much together.🇺🇸>
+662 8 <Love you Trump. PLEASE HELP VENEZUELA 'S PEOPLE>
+680 8 <Oh, I bet that was hard for hilary>
+693 8 <R I P 41 President George h.w Bush>
+705 8 <@brodyjohnson20 see, now that there is a lie>
+708 8 <@007reflect keep dropping truth bombs on these weirdos>
+795 8 <This is the longest funeral ive ever seen>
+801 8 <Very touching service God Bless the Bush Family>
+805 8 <GOD bless Mr. President @realdonaldtrump and her nation>
+861 8 <5? I only see Carter, Bush and Trump>
+864 8 <خدا بیامرزه داداش غم اخرت باشه شامم میدن>
+870 8 <@rose_houk neither one of them has a heart!>
+880 8 <@mia.beckman dammmmmn smoked Em lol follow me 😂>
+890 8 <@zacharybarber12 now is not a time for hate>
+935 8 <Always a class act. Thank you President Trump!>
+977 8 <Only 4 are actually looking at the casket>
+978 8 <HW was #41 not #43. W was #43>
+1003 8 <Jimmy Carter lookin like damn Im on deck>
+1010 8 <And Hillary wasn’t one of those presidents 🤣🤣🤣👍🏻>
+1021 8 <@bawbeakari you are going from dumber to stupid🇺🇸🇺🇸🇺🇸🤣😂>
+1096 8 <@alphaeagle1776 President Trump doesn't need any of them.>
+1128 8 <I cried what a beautiful service. RIH... .>
+1151 8 <You are all im one give me 30%>
+1192 8 <Where is 24 section from mansh0reh agar understand>
+1195 8 <Why they look like March of the Penguins>
+1201 8 <Ibid code 1o0 milion $ come if know>
+1203 8 <Send me mail next 19 h im agree>
+1237 8 <@realdonaldtrump @gettyimages : SUPREME NATION MONARCH #MAYRILVABREGITHAWALLÉ #ARR>
+1245 8 <We are looking for your same ceremony 😂😂😂😂>
+1260 8 <@iran_start_shahzadh you gonna be ok dont worry lady😂😂>
+1292 8 <God bless You and United States of America!>
+1349 8 <@kat_ann_07 may I ask, are you a Christian?>
+1368 8 <How u feel about that? Maybe next @realdonaldtrump>
+1401 8 <Please accept my heartfelt condolences on Bush's funeral>
+1439 8 <@lil_lombardi33 You don’t have to recite the prayer....>
+1537 8 <@kolesere90 that is a terrible thing to say.>
+1557 8 <You either have it or you don’t; Class!!>
+1577 8 <I’m amazed obama and his husband showed up>
+21 9 <B O L S O N A R O>
+23 9 <I hate Clinton like if you hate abortions #trumptrain>
+59 9 <My respect to Bob Dole only.You all cheep,weak pretenders;)>
+68 9 <Still nothing new with me safe my life b>
+70 9 <What will they say about you don? Nothing good.>
+72 9 <Like if you want to MAKE AMERICA GREAT AGAIN!>
+75 9 <منیوچ قیمت دلار رو برگردون سر جای اولش @realdonaldtrump>
+119 9 <How about it, the UNITED politicians of America 😁👏🏻>
+126 9 <Rest In peace to #41 Goerge H.W Bush 🇺🇸🇺🇸🇺🇸🇺🇸>
+131 9 <Incoming liberals about to make a funeral seem racist>
+173 9 <God bless president bush and god bless America 💫🙏❤️🌹>
+181 9 <@bawbeakari and your going right back over the border>
+192 9 <She dare to be mutual at a funeral. 😂>
+213 9 <Pffff dude stop sending these crap stuff 👎 FGS>
+233 9 <@ashlelarsen I’m a liberal? You insult me like that?>
+239 9 <You are the President of TMZ not America! 💩🍊>
+245 9 <@future.marine_usmc two weeks! Lol! I was thinking by tomorrow!>
+271 9 <@al_hatton1776. TODAY IS FOR PRESIDENT BUSH. PLEASE RESPECT THAT.>
+280 9 <It hurts so much. I been crying so much.>
+341 9 <Guys ...this is NOT the time. RIP President Bush.>
+349 9 <@lilronnie528 just what I thought when watching the funeral.>
+358 9 <@bobby_baccooon lol oh man you got me there 🤷🏻‍♀️😂>
+361 9 <Is Bill trying to look down Michelle Obamas shirt?>
+507 9 <Rip thank you for your service god bless family's>
+513 9 <Why does Bill Clinton always have his mouth open?>
+533 9 <@beagle_mom1 yes it is. So glad they could come.>
+538 9 <@bj_sherman why do you think hes so faithful 😜>
+542 9 <It was #41 who’s flag draped casket passed by>
+626 9 <Rest In Peace Former President George Herbert Walker Bush❤️🇺🇸>
+631 9 <Such a moment in history! God bless America 🇺🇸>
+650 9 <Please Help..Venezuela 's People Children are dying. Please Please>
+653 9 <I love You Trump Please help Venezuela 's People>
+655 9 <@hallryland202 thank you for your service to this country>
+676 9 <It took a funeral to bring them together! Geeeeeezzzzz!>
+707 9 <@myhippieplace12345 Obama ruined the country. We all hate now.>
+750 9 <Godspeed President Bush! Your work here is done! 🙏>
+769 9 <@al_hatton1776 lol! Traitors, you sound like you have diarrhea>
+803 9 <why tf clinton there. they be ruinin the shot>
+863 9 <@lindah6168 all good looks?! No, you Rotten witch! 🤣>
+866 9 <Look at Jimmy Carter, no hand on his heart!😡>
+893 9 <@william_connors33 then why do you follow Trump like c'mon>
+908 9 <@peasfurall Don’t you think the baby wanted to Choice>
+923 9 <Like wth is wrong with Bill Clinton’s fingers ??>
+974 9 <Hillary looked like a stone cold loser biach disgusting>
+995 9 <A wonderful send off. Class all the way 💖>
+996 9 <Trump looking strong and hopeful, I love it 💯💯#MAGA>
+1050 9 <@bobby_baccooon An orange clown and his pet feline cat.>
+1067 9 <I can’t wait until Killary is in a box.>
 1089 9 <Lailahe illallah muhammed Resulullah hak dın islamdır davet ediyoruz>
-1103 9 <Yes! History captured today!🇺🇸>
-1169 9 <Section again 16_ 3b>
-1202 9 <Time off>
-1215 9 <3d camo kam kam jam>
-1328 9 <الا جهنم الحمره انشاء الله>
+1114 9 <@alphaeagle1776 lol no wonder your other account was banned>
+1230 9 <درود به پرزیدنت ترامپ.....ننگ بر اوباما و کلینتون ها>
+1231 9 <خدا کنه به همین زودیا سر تخته بشورنت 😂😂😂😂😂😂😂😂😂😂😂😂😂>
+1259 9 <@aliavfai ر....م به صلحی که این الدنگ منادیش باشه>
+1269 9 <روح عقب مونده خودتون مایه بذارین اوسکلای اجنبی پرست>
+1289 9 <@beagle_mom1 Trump didnt shake hands with the Carters ?>
+1325 9 <You are THE BEST president in that row!!! 💕😍🇺🇸😍💕>
 1338 9 <@khabar_fouri ببین احمق کراواتش ابیه سوتی دادی بدم ریدی>
-1365 9 <خدا همتونو لعنت کرد.لعنتیا>
-1417 9 <درود بر امریکا❤❤❤❤❤❤>
-1486 9 <😍😍😍 FOLLOW ME HANDSOME 😍😍😍>
-127 10 <🇺🇸🇺🇸🇺🇸>
-176 10 <🇺🇸🇺🇸🇺🇸>
-255 10 <@deplorabledefenders 👏>
-351 10 <🇺🇸🇺🇸🇺🇸>
-473 10 <🇺🇸🇺🇸🇺🇸>
-525 10 <Opgeruimd staat netjes.. Hands down.>
-674 10 <R.I.P. MR. Bush. 🙏🙏🙏🙏🙏🙏🙏🙏🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
-902 10 <🇺🇸🇺🇸🇺🇸>
-1173 10 <BECUSE YOU DEAR DAD>
-1269 10 <روح عقب مونده خودتون مایه بذارین اوسکلای اجنبی پرست>
-1331 10 <لعنة الله عليكم يا حيوانات>
-1423 10 <@platinum_ida oh yea 🙄🙄🙄😂>
-5 11 <😢>
-67 11 <@al_hatton1776 Agree>
-121 11 <😢>
-137 11 <😢>
-223 11 <Rip>
-237 11 <😢>
-391 11 <Everyone standing behind>
-496 11 <Rip>
-636 11 <@al_hatton1776 Amen!>
-762 11 <Rip>
-836 11 <@china_number__1 ??????>
-930 11 <😢>
-1172 11 <28 section × multi 3d HONEY>
-1249 11 <😢>
-1350 11 <He’s born free>
-1379 11 <😢>
-1575 11 <😢>
-270 12 <@al_hatton1776 👏👏👏>
-659 12 <WHO LET THE OMPA LOMOPA LOOSE????????>
-833 12 <@china_number__1 Are>
-986 12 <GOD BLESS AMERICA.>
-1208 12 <Juri big BROTHER>
-1212 12 <@#CRIST ianooo cut back loleh>
-1235 12 <Jimmy Carter!!!>
-1337 12 <روحش شاد ویادش گـــرامی🙏🇺🇸>
-18 13 <LOVE YOU 45!!>
-25 13 <TRUMP 2020 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
-30 13 <F>
-76 13 <F>
-231 13 <F>
-339 13 <🙏>
-404 13 <Damn carter لعنت بر کارتر>
-419 13 <F>
-431 13 <Beautiful service>
-527 13 <🙏>
-600 13 <Parabéns. .. bom trabalho 🙌>
-712 13 <F>
-749 13 <F>
-932 13 <TRUMP 2020 ❤️🎉🎄>
-1052 13 <@volosinmartha2016 ? Speak English>
-1079 13 <F>
-1205 13 <#rusian big limited but....>
-1214 13 <RULE too>
-1254 13 <F>
-1265 13 <F>
-1267 13 <🙏>
-1358 13 <F>
-1515 13 <F>
-1518 13 <🙏>
-1526 13 <F>
-1581 13 <F>
-246 14 <@macwagner03. THIS GOES FOR U 2.>
-302 15 <#Salute #43 #Fairwinds #POTUS #FLOTUS #Trump #Obama #Clinton #Carter #respect #BushFamily>
-303 15 <@3ku111 dumbo 💯😩 TRUMP 2020🇺🇸🇺🇸🇺🇸>
-998 15 <Is killary sleeping?>
-1300 15 <Great man!>
-1395 15 <هذي حال الدنيا يا ترامب لا تفكر عمرك بدوم فيها💔😢>
-34 16 <2020 🇺🇸🇺🇸🇺🇸>
-87 16 <@brodyjohnson20 Google child trafficking clinton foundation>
-609 16 <USA, USA, USA 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
-842 16 <Glória Rip 😢😢😢>
-1046 16 <Another warmonger passed away>
-1298 16 <روحش شاد باد ،،،روانش قريب رحمت الهي🌺>
-1354 16 <GOD BLES AMERIKA 🙏🙏🙏>
-143 17 <Hillary’s face omg..>
-588 17 <i cried>
-657 17 <Please Help Venezuela 's>
-973 17 <Historic picture ♥️🇺🇸>
-1419 17 <Amazing picture>
-1554 17 <Carter wasn't there?>
-51 18 <MY FRIEND JUST CUT OFF HIS FINGER LOOK AT MY STORY>
-161 18 <#we_want_regime_change_in_iran Viva prince #rezapahlavi>
-164 18 <#we_want_regime_change_in_iran Viva prince #rezapahlavi>
-479 18 <@zacharybarber12 @carlykpatt>
-907 18 <DM ME FOR X’s NEW ALBUM ‘skins’>
-1124 18 <My condolences>
-1126 18 <#we_want_to_regime_change_in_Iran #we_want_to_regime_change_in_Iran>
-1161 18 <ترامپ خر است😂😂😂🤦🏻‍♂️>
-1239 18 <🐧🐧🐧🐧🐧🐧🐧🐧⚰️ 🐧🐧🐧🐧 🐧 🐧 🐧 🐧>
-73 19 <Someone Make Germany Great Again>
-258 19 <@bobby_baccooon true🔥💪💪>
-776 19 <😂>
-797 19 <@china_number__1 😂😂😂😂 simple mind>
-864 19 <خدا بیامرزه داداش غم اخرت باشه شامم میدن>
-1016 19 <A men>
-1210 19 <E e 1 EYE DRAGON>
-715 20 <Rip bush>
-1176 20 <تسلیت میگم ترامپ>
-1534 20 <American idiots!>
-182 21 <Rip #41>
-881 21 <@bobby_baccooon SO RIGHT🤦🏾‍♂️>
-1286 21 <ترامپ درحال سینه زدن>
-28 22 <peepee man>
-108 22 <🇺🇸>
-305 22 <@voted4trump45 😂>
-516 22 <سگ تو روحش>
-597 22 <🇺🇸>
-871 22 <Rip gorgie bush ‘41>
-1002 22 <🇺🇸>
-1072 22 <کیر من ملانیا رو میخواد>
-1125 22 <#we_want_to_regime_change_Iran_ #we_want_to_regime_change_Iran_>
-1333 22 <روحش شاد باشه.هر چي خاك جرج پدره بقاي عمره جرج پسر بشه>
-236 23 <RESPECT. 🇺🇸>
-266 23 <@chelseaeiben lol>
-553 23 <@flak_tower_supreme_ 😂>
-700 23 <hillary always lurking smh>
-778 23 <Salute. 🇺🇸>
-975 23 <Yo Jimmy’s still alive? Wow>
-1392 23 <🇺🇸 😑💝>
-1466 23 <📩📩🅿🅻🅴🅰🆂🅴 🅿🅴🅴🅿 🅼🆈 🅿🅰🅶🅴 🆆🅷🅴🅽 🆈🅾🆄 🅵🆁🅴🅴 🅵🅾🆁 🆂🅾🅼🅴 🅰🅼🅰🆉🅸🅽🅶 🅰🆁🆃 🆆🅾🆁🅺🆂 🅾🆄🆃 🆃🅷🅴🆁🅴 🅰🅽🅳 🅱🅴🆃 🆈🅾🆄 🅶🅾🅽🅽🅰 🅻🅸🅺🅴 🆃🅷🅴🅼 🅿🅻🅴🅰🆂🅴💯💯💯💯💯💯💯💯>
-0 24 <𝘼 𝙘𝙤𝙥 𝙥𝙪𝙡𝙡𝙚𝙙 𝙢𝙚 𝙤𝙫𝙚𝙧 𝙖𝙣𝙙 𝙩𝙤𝙡𝙙 𝙢𝙚 "𝙥𝙖𝙥𝙚𝙧𝙨", 𝙨𝙤 𝙄 𝙨𝙖𝙞𝙙 "𝙨𝙘𝙞𝙨𝙨𝙤𝙧𝙨, 𝙄 𝙬𝙞𝙣!" 𝙖𝙣𝙙 𝙙𝙧𝙤𝙫𝙚 𝙤𝙛𝙛.>
-132 24 <It’s sad someway>
-293 24 <@brotherputh 😂😂 nice comment 😂😂>
-701 24 <We LOVE YOU!>
-718 24 <I'm seeing don't care-care..>
-1272 24 <Condolence America>
-1455 24 <@fancifulmason9 well said>
-194 25 <@zacharybarber12. TODAY IS ABOUT PRESIDENT BUSH.>
-770 25 <@alphaeagle1776>
-1469 25 <😂 ölüm düğünümüzdür.. Ne mutlu TÜRKÜM diyene>
-1564 25 <کی بیم تشییع جنازه تو انشالا🙌🙌>
-218 26 <عشق من هستی آقای ترامپ>
-800 26 <CAVU, Mr. President!>
-1406 26 <درود برریس جمهور آمریکا ترامپ>
-485 27 <❤️>
-502 27 <@alphaeagle1776 LOL>
-634 27 <xin chia buồn cùng ngai tổng thống donaltrump và gia đình cố tổng thống bush>
-654 27 <❤️>
-951 27 <Oh yes fatherrrr oooooooh yes>
-1123 27 <❤️>
-1238 27 <❤️>
-1308 27 <❤️>
-1454 27 <❤️>
-107 28 <Looking away 😂>
-777 28 <BEST DAMN PRESIDENT EVER #MAGA 🇺🇸🇺🇸>
-264 29 <داداش خدا بيامرزتش ، غم اخرتون باشه 😢>
-621 29 <Great job @cblanch9>
-652 29 <@paula_jo_davenport yes i Have>
-1180 29 <Nice job Hilaryyyyyy.... NOT>
-1273 29 <Awesome!! Love, love this!!!😮😮😍😍💪💪🙏🏻🙏🏻>
-4 30 <RIP>
-213 30 <Pffff dude stop sending these crap stuff 👎 FGS>
-503 30 <RIP>
-783 30 <RIP>
-1268 30 <RIP>
-1446 30 <RIP>
-1565 30 <RIP>
-27 31 <Stay politically incorrect ❤️>
-338 31 <Today, Americans came together & listened.>
-346 31 <RIP 🌷>
-535 31 <RIP Bush!🙏🏻>
-591 31 <RIP 41🇺🇸🇺🇸🇺🇸>
-651 31 <RIP Prez>
-817 31 <@sourpatch_84 also another dumb comment😂 😂😂>
-985 31 <THIS IS WHY YOUR HOUSES WERE BURNED DOWN--GO TO 5:47. PLEASE GET THIS OUT/VIRAL https://www.youtube.com/watch?v=ZTbDJPqmRA0>
-1056 31 <@bobby_baccooon get help.>
-768 32 <Forever missed love Tasha Danderson.>
-1428 32 <@mehrab.ahmadii بهتره آدم بدون بررسی همه چی رو داد نزنه>
-271 33 <@al_hatton1776. TODAY IS FOR PRESIDENT BUSH. PLEASE RESPECT THAT.>
-357 33 <ناهار چی دادین بعد از خاکسپاری؟😎>
-457 33 <🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸MR. PRESIDENT 41 YOU WILL BE MISSED!! 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸>
-1055 33 <Even more SeatFillers💸🍟🍟🍟🍟🍟🍔🍟🍟>
-1140 33 <#we_want_to_regime_change_Iran_ #we_want_to_regime_change_Iran_ #we_want_to_regime_change_Iran_>
-1141 33 <#we_want_to_regime_change_Iran_ #we_want_to_regime_change_Iran_ #we_want_to_regime_change_Iran_>
-1237 33 <@realdonaldtrump @gettyimages : SUPREME NATION MONARCH #MAYRILVABREGITHAWALLÉ #ARR>
-1264 33 <@fardaysarzaminam5335 داش بازی سیاسیه حرص نخور خود اینا یادته موقع انتخابات ریاست جمهوریشون جلو دوربین علنی پته همو میریختن رو آپ😂😂>
-216 34 <@1a_saraa تو پروفایلت زدی سیاستمدار😃😃ساندیس#we_want_regime_change_in_iran Viva prince #rezapahlavi>
-901 34 <Roslyn looks hot!>
-988 34 <@zacharybarber12 Not here. NOT Now.>
-193 36 <قیافه زن کارتر و نگاه کنید.😂>
-300 36 <Help me>
-414 36 <#MAGA ,baby! #KAG ❤️>
-177 37 <ترامپ خاک تو سرت>
-198 37 <Pence up front too. Squad thick>
-388 37 <زنده باد صلح و دوستی>
-549 37 <خداوند بوش پدر را زجری دهد ک در هیچ کجا جای نداشته باشد>
-1370 37 <@bobby_baccooon 😂>
-1501 37 <Service over self>
-8 38 <Rest In Peace!>
-373 38 <#vivatrump 🇺🇸🇺🇸🇺🇸💙💙💙💙💙#vivaamerica 🇺🇸🇺🇸💙💙💙💙💙💙#vivairan 💙💙💙💙💙💙#vivashahzadehrezapahlavi 👑💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙 @realdonaldtrump 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸💙>
-374 38 <#vivatrump 🇺🇸🇺🇸🇺🇸💙💙💙💙💙#vivaamerica 🇺🇸🇺🇸💙💙💙💙💙💙#vivairan 💙💙💙💙💙💙#vivashahzadehrezapahlavi 👑💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙 @realdonaldtrump 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸💙>
-601 38 <😢😢 Last respect>
-846 38 <Obummer looks bummed out😡>
-1560 38 <هرچی خاک اون کس کش کونیه خاک تو باشه>
-83 39 <Killary looks miserable>
-139 39 <🙏 @realdonaldtrump>
-669 39 <@bj_sherman big ol man Michelle/Michael. Lol!>
-1093 39 <Trump’s orange tan looks great!😍😍😍>
-1371 39 <به درک واصل شده ...خدا لعنتش کنه>
-101 40 <Military never lets us down. Fantastic>
-1058 40 <@brotherputh thats just racist.>
-649 41 <A beautiful service!❤️>
-1099 41 <RIP 41>
-21 42 <B O L S O N A R O>
-1004 42 <Shouldn't HW get #41 ?>
-1167 42 <Court nornberg here up 😂😂❄😂🦋>
-10 43 <🔥🔥🔥LET ME KNOW IF YOU NEED MIXTAPE COVERS ,LOGOS, COVER ARTS , CARTOON PICS,ANIMATED VIDEO AT AFFORDABLE PRICES📷📷📸📸📹📠💯>
-940 43 <RIP 41! GOD Speed>
-1024 43 <Crooked Hillary>
-1310 43 <George H W BUSH #43?>
-1525 43 <He ruined Obama's legacy>
-90 44 <باعرض تسليت ازطرف خانواده هاى بن لادن،صدام،داعش،ملك سلمان،غضاف مكان آمريكا به صرف آبجو،ويسكى 🌹🙏🏻😉>
-147 44 <@realdonaldtrump y Venezuela cuando>
-225 44 <@realdonaldtrump #we_want_regime_change_in_iran Viva prince #rezapahlavi>
-142 45 <لطفافرزندان مسوولین بی کفایت وخائن ایران ازامریکابیرون کنیدتحریم هیچ اثری واسه دزدان نداره فقط مردم بدبخت کرده>
-1436 46 <@shirleyatorres yes. More beautiful than Obama's wifeb>
-168 47 <A WONDERFUL TRIBUTE TO A WONDERFUL MAN. ❤>
-829 47 <RIP PRESIDENT BUSCH 🇺🇸🇺🇸>
-832 47 <Does anyone love abortions ?>
-1154 47 <#we_want_to_regime_change_in_Iran #we_want_to_regime_change_Iran_ #we_want_to_regime_change_in_Iran #we_want_to_regime_change_in_Iran #we_want_to_regime_change_in_Iran>
-484 48 <@bobby_baccooon Yes, more deplorables.>
-1023 48 <Michelle looks mad! 😠>
-1231 48 <خدا کنه به همین زودیا سر تخته بشورنت 😂😂😂😂😂😂😂😂😂😂😂😂😂>
-741 49 <Mi pésame , Dios lo tenga en la gloria !!!>
-1157 49 <#we_want_to_regime_change_Iran_ #we_want_to_regime_change_Iran_ #we_want_to_regime_change_in_Iran #we_want_to_regime_change_in_Iran #we_want_to_regime_change_in_Iran>
-1256 49 <آخه شاسکول به تو چه😐>
-365 50 <@bawbeakari 🤦‍♂️>
-607 50 <@bawbeakari doubtful.>
-952 50 <MUELLER STORY ABOUT RUSSIA IS "INSULT FOR AMERICAN AND OTHER WORLD PEOPLE BRAIN". DONALD JOHN TRUMP "STOP THAT RUSSIA INSULT FOR BRAIN"👍>
-1013 50 <😞Rip my guy>
-929 51 <Todos unidos expresidentes demócratas y Repúblicanos! Cómo eran antes adecos y copeyanos en Venezuela>
-75 52 <منیوچ قیمت دلار رو برگردون سر جای اولش @realdonaldtrump>
-342 52 <Just let him go.>
-547 52 <اوبامای بیشرف اون پشت وایساده داره به بدبخت شدن خودشون مسلمونا فک میکنه>
-681 52 <@bawbeakari mentally deranged Libtard!!!>
-764 52 <@bawbeakari dream on.>
-934 52 <@bawbeakari idiot>
-1225 52 <به عزت شرف لا اله الله بلند بگو لا اله الله>
-45 53 <خاک بر سر اون باراک اوبامای کودن بکنن.مرتیکه از قیافش احمقی میباره.اسکول مالیاتی...>
-775 53 <41 obviously wasn’t feelin me>
-917 53 <@bawbeakari pro faker>
-997 53 <@chelseaeiben Because she is!!>
-834 54 <@china_number__1 we>
-1061 54 <RIP 41 🙏>
-1082 54 <@mazzie24 true as hell!🇺🇸>
-144 56 <É o enterro do Capitão América?>
-990 57 <@bawbeakari Not.here Not Now>
-1505 57 <@chelseaeiben hope she's crapping her bloomers.>
-343 59 <Viva president trump 🙏🏻❤️❤️❤️❤️❤️🌹>
-615 59 <Michelle Obama truly digsuested me.>
-162 60 <💒🇺🇸Mr prs Bush>
-261 60 <Bush Killed Kennedy>
-443 60 <The Greatest Generation 🇺🇸🙏🏻>
-895 60 <And Hillary>
-532 61 <HONOR Y LEALTAD EN VIDA Y HASTA SER LUZ DEL CREADOR HONORES PARA QUIEN CUMPLE SU PROMESA Y MUERE POR SU PATRIA SIN DUDAR POR QUE LA AMA Y ES SU DEFENSOR HONOR>
-1107 61 <MR. PRESIDENT YOU DESERVED A BETTER RECEPTION FROM THOSE DEMS, BUT THEY WOULD LOOK BAD. KEEP ON ROCKING!!!! WE LOVE YOU!!>
-1512 62 <@bawbeakari moronic !>
-487 63 <@bawbeakari .>
-490 63 <@bawbeakari .>
-564 63 <God rest 41! 😓🙏🏻🇺🇸>
-145 64 <@kathleen_niklas haha what 😂>
-1492 65 <@carlaandrea946 she campaigning lol every opportunity counts😂>
-298 66 <Pic sums it up!>
-1393 66 <@smirzaee ایشون نظر خودشو گفته،عقیدش اینه ترامپ‌منجیه،الان خیلی از ایرانیا این حسو دارن،تو چرا ناراحتی؟😕>
-1507 66 <کاش تو میمردی ترامپ جهانی از شرت راحت میشد>
-203 67 <Obama looks bored>
-499 67 <Rest In Peace American Hero🇺🇸😢>
-1404 67 <@bawbeakari 😂😂😂😂 wrong>
-230 69 <God bless him💖>
-667 69 <Beautful service. Still dont know why Bill>
-1187 69 <The icc cc cc cc MODEL nodel>
-555 70 <@bawbeakari still beat tho>
-585 70 <Obama looks upset 😂😂😂😂😂😂>
-1293 70 <Damn, cant believe George Washington didnt show up. That's disrespectful.>
-1201 71 <Ibid code 1o0 milion $ come if know>
-617 73 <XD Obama don't look happy>
-277 74 <Hillary’s wondering who’s carrying her out afterward.>
-1203 75 <Send me mail next 19 h im agree>
-1230 75 <درود به پرزیدنت ترامپ.....ننگ بر اوباما و کلینتون ها>
-1189 76 <Why billls fingers so long?>
-453 78 <shame on you😏>
-813 78 <UNITY. 🇺🇸📜 RIP GEORGE HW BUSH. WE HAVE HAD THE HONOR TO HAVE YOU AS OUR LEADER. 💪🏻🇺🇸>
-140 79 <Crooked Hillary looks miserable.. what’s wrong? 🤣🤣🙌🏼🇺🇸🍿🙏🏼>
-157 80 <دمت گرم ترامپ گل،که پشت به کاکا سیاه(اوباما)و کلینتون ایستادی بسیار این عکس زیباست>
-880 80 <@mia.beckman dammmmmn smoked Em lol follow me 😂>
-1145 80 <Table LAHEH on line 🙃 JUDGE>
-347 81 <Trump 2020>
-1108 81 <God bless 🙏>
-1193 81 <Giuseppe nessi like messi😂>
-1437 81 <@susanus57 what did She say>
-944 83 <again dude. can we play fortnite?>
-185 86 <My goodness! The picture>
-344 86 <Bill has them long nasty fingers bruh!>
-1177 86 <Of security on line funny tifaniii>
-1259 86 <@aliavfai ر....م به صلحی که این الدنگ منادیش باشه>
-1190 88 <State nation all laheh door open>
-787 90 <God bless 🇺🇸>
-1066 90 <@danielledb88 بزودی نوبت توی ترامپ هم می رسد که خوراک مور می شوی در گور، #آمریکا_رو_به_افول_است>
-806 91 <Love him! ❤️ God Bless>
-304 92 <Rest In Peace George H. W. Bush!>
-697 92 <Look at Hillary’s smug face... HAHA!>
-964 92 <Id rate his presidency 9/11>
-417 93 <Very sad but beautiful funeral.>
-1196 93 <Icc non not>
-1568 93 <@king45moses You seem obsessed, just sayin ‘>
-201 94 <@voted4trump45 right?! What’s his deal????>
-1553 94 <God bless America 🇺🇸🇺🇸🇺🇸🇺🇸>
-856 95 <Love this guy !>
-1184 95 <Tag organ if....let 0r not>
-916 96 <Hateful comments not welcome>
-254 97 <And finally He passed away, go back Hell, Boy !>
-713 97 <Semper fi president Bush>
-1165 97 <0 me come answer no fair>
-13 98 <@hazebro_ first mf comment let's get it 😤😤💪💪>
-211 98 <We love our president#megaRIP 41.>
-1037 98 <Jimmy carter my man still kicking>
-774 100 <@lindah6168 i mean liquid on general>
-1294 100 <Look at hillarys face>
-1422 100 <God bless him>
-317 101 <Look how enthused Michelle Obama is!>
-1562 101 <Has he always been insane?>
-9 103 <Haha look at Hilary>
-1181 103 <The simple come up jurisdictional>
-708 106 <@007reflect keep dropping truth bombs on these weirdos>
-1105 107 <Hilary looks so unhappy, lol>
-1139 108 <CHANGE your organ>
-1523 108 <@nossanna your right!>
-731 109 <Rip George HW Bush>
-1470 109 <Anyone notice missing flag pendants on former president???? #makeamericagreatagain🇺🇸>
-136 110 <@zacharybarber12 he looks 12💀😂>
-852 111 <Those clowns f’d up this photo. #MAGA>
-368 112 <Honor Guard rocked it as usual>
-1051 113 <Hillary looking miserable, as usual...lol>
-482 115 <@alphaeagle1776 no, who doesn't love killing other humans>
-1356 115 <@lil_lombardi33 Catholics are Christians>
-1561 115 <@king45moses Manafort, Flynn, Stone, Corsi, etc. just one big crazy coincidence 🙄>
-97 117 <@brodyjohnson20 nothing wrong with Clinton?>
-1571 117 <Ole Barry looks like he’s smirking.>
-1494 118 <Who's that>
-394 120 <Clinton cant find his heart...>
-395 122 <@evantflynn Obama’s are pathetic! 😢😢>
-605 123 <Obama looks so good🤤>
-765 124 <@mr._mattyskeky trump does not drink. Lol>
-931 124 <@alphaeagle1776 Let’s not forget Monica ~ #sayhername>
-405 126 <ترامپ ما در غمت شریک هستیم شرمنده نتونستم بیام مشتی از بچه ها عذرخواهی کن پمبو جان بلتون خانم هری خلاصه از همه 😌😌😌😌😌😌👑🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳>
-1521 126 <PRESIDENT iam sorry The people Love program. Good...... 💟🗽🗽🆗♍>
-283 127 <Rip 41! A great American President! God bless!>
-471 127 <Meu sonho é conhecer o USA e o presidente Donald Trump>
-462 130 <Quiero aclarar que no tengo nada que ver con los cargos imputados. Que me den vuelta si quieren .>
-1506 130 <Is that Dan Quayle??>
-1158 132 <Wonderful job Mr President>
-903 133 <Como admiro ver o respeito que os senhores têm pelos políticos, presidentes. Quero ver isso um dia acontecer aqui no meu Brasil. É o sonho dos brasileiros, ter uma grande nação. Parabéns povo americano @realdonaldtrump>
-658 134 <@future.marine_usmc Sad, we could accomplish so much together.🇺🇸>
-933 135 <Look at her face>
-1204 135 <Im sure can not answer loleh yep>
-1297 136 <Glad those Others are gone.... #Onward>
-1368 136 <How u feel about that? Maybe next @realdonaldtrump>
-524 137 <Trump sure does stand out lol>
-1519 141 <That’s really cool 5 Presidents are together!>
-1019 143 <Great job Mr President>
-650 144 <Please Help..Venezuela 's People Children are dying. Please Please>
-340 147 <like this>
-858 147 <امیدوارم که علم ما آنقدر پیشرفت کنه که این آدمهای دوست داشتنی رو دباره بتونیم زنده کنیم سالم و جوان>
-1044 147 <4 with one deceased>
-1049 147 <Rest In Peace George H. W. Bush>
-1570 147 <So long bush maybe we 'll meet up yonde ! In heaven Amen>
-1329 148 <پرزیدنت ترامپ شاهنشاه کبیر و دائمی آمریکای باستانی و معاصر و ایران معاصر ولاقید . تنها>
-1162 149 <You phd i have hichi😂😂😂>
-1389 152 <Donald looking sharp... 1st lady looking beautiful 👍. The Trumps>
-1573 153 <Great job Mr. President 🇺🇸👍.>
-862 154 <Love love love this pic!! 🇺🇸>
-887 154 <از برکات ایشان (حضرت ترامپ صلوات الاهورامزدا علیه) و تلاشهای شاهنشاه رضا است که پارسیان را از یوق ۱۴۰۰ ساله اسلامی آزادی خواهند یافت>
-1448 156 <Is that second person behind Killary skeletor ? Scary AF>
-1401 157 <Please accept my heartfelt condolences on Bush's funeral>
-49 158 <God bless us all>
-440 158 <Celebration for WARCRIMINAL‼️👎🏼>
-1218 159 <Code for UNDERSTAND>
-91 161 <Latins united for Trump!>
-315 161 <@imlike87 more people agree with me...BOOM>
-326 161 <Trump with blue tie...👏>
-533 164 <@beagle_mom1 yes it is. So glad they could come.>
-1258 164 <~ Hillary whispers; "Bill, who'd we kill this time?" 😏>
-983 168 <Shoutout Hillary with her arms crossed>
-504 170 <It’s Bush #41 not #43!>
-542 170 <It was #41 who’s flag draped casket passed by>
-885 171 <Your The Best President Ever! 🔥❤️🔥🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸#WWG1WGA>
-319 172 <@bawbeakari don’t think so! MAGA Trump 2010>
-228 174 <@al_hatton1776 -can't imagine how they felt... Love them 🇺🇸🇺🇸🇺🇸 MAGA 🇺🇸 🇺🇸🇺🇸>
-537 176 <@sourpatch_84 lmfao I got blocked>
-1580 177 <Rot in pieces maggot>
-456 180 <Tras largo recorrido en la vida y un buen trabajo q as dejado q siempre te recordaremos con ello, Descansa en paz.George HW Bush>
-581 180 <@lisstehe like Trump did 👍>
-1159 181 <😢😢😢😢😢😢💔💔💔💔💔تصلیت از طرف ایران به تمام ایالات امریکا درود به روح پاک این بزرگان روحشون شاد ما ملت ایران روودر غم خود شریک بدونید 💙💙💙💙😢😢😢😢😢>
-737 182 <Well Dan President Trump>
-1084 183 <@connie.lamb2 Rosalyn Carter. She sure hasn’t aged well from that pic! 😲>
-761 184 <@carlaandrea946 mrs Obama was no better>
-905 184 <@bawbeakari this ain’t it chief>
-1003 184 <Jimmy Carter lookin like damn Im on deck>
-626 185 <Rest In Peace Former President George Herbert Walker Bush❤️🇺🇸>
-43 188 <@zacharybarber12 there's nothing wrong with Clinton or abortions>
-454 190 <RIP Mr. President George H.W.Bush !!!>
-837 190 <@china_number__1 I love trolls>
-519 191 <Hey Jimmy Carter.....no hand over your heart....that speaks volumes.....your next!>
-491 193 <Which five? I see three>
-598 193 <@future.marine_usmc no one has put there differences aside>
-619 194 <@myhippieplace12345I AM NOT TALKING ABOUT THE OBUMMERS I WAS TALKING ABOUT THE CLINTONS>
-1522 194 <I loved George Bush!>
-724 195 <Wow we like this>
-1369 195 <@shahiad_57_97 بابا چرا انقد شوت میزنین الان نه که تو امریکاش همه دارن پادشاهی میکنن؟؟بعد آخه یذره از اون مختون استفاده کنین این الدنگ کل دنیا فلانش نیست حالا واسه امثال من و تو منجیه؟؟؟>
-16 196 <So much class today President Trump! Job well done 🙏 #MAGA>
-1017 197 <از بين چهار میلیارد اسپرم برنده ميشی از بين دویست و پنج كشور دنيا توی ايران بدنيا ميای...ازبين سی ميليون خانواده تو يه خانواده قشر متوسط يا پايين متولد ميشی ..جمع اين احتمالات خيلی نزديك به صفره ولی ببين شانس ما کجا رفته 😖😖>
-668 200 <@chelseaeiben You got that right.... killary>
-956 202 <@snow3603 how could I forget! 🤦🏻‍♂️>
-68 205 <Still nothing new with me safe my life b>
-227 205 <@josephine.dedominicis he did shake their hands, but nice try 👍🏼>
-202 207 <@al_hatton1776 yes he did! #obamas are hating it.>
-909 207 <Rest In Peace President Bush>
-1057 207 <@puck45 Military is rogue>
-1148 208 <Section 28 nice for i go home>
-552 209 <RIP former President Bush>
-102 210 <@realdonaldtrump We put Joe Biden on this UFO ASAP. #Cyborg #LetsGo>
-330 210 <Hilary’s expression is pure evil.>
-39 211 <rest in peace gearge 🅱️ush>
-891 211 <Obama was there o my gosh>
-279 213 <Your daughter is hot>
-437 213 <Rest in peace 🇺🇸🙏>
-941 213 <Rest in peace Mr.Bush>
-1133 213 <Rest in peace #GeorgeHWBush#>
-370 216 <Hillary Clinton face when president Trump arrived 🤣🤣🤣🤣>
-1186 216 <High criminal where is crimes>
-1528 216 <Peace be with him>
-385 218 <@realdonaldtrump now can we lock them all up?>
-1442 219 <@paula_jo_davenport I miss him every day>
-243 221 <Hillary isn't in jail 😫>
-452 222 <rest in peace 🙏>
-584 222 <👍🙏👍🙏👍🙏 great job President Trump>
-222 223 <WHITE NATIONALIST PIG, TRUMP IS, "INDIVIDUAL 1" in court documents. BEWARE THETrump Low life cheesy UnAMERICAN crime family.>
-1452 226 <@sheshesayz Yes, I watched several times as well. Cried each time.>
-675 228 <@michaelclayton87 President Trump Commander In Charge. 🇺🇸>
-642 229 <@myhippieplace12345 President Trump United States Commander In Chief.🇺🇸>
-455 231 <rest in peace 🇺🇸>
-253 234 <@realdonaldtrump He “lay” in State (not “lied”).>
-639 235 <@3ku111 kavanaugh is innocent! But you’re not!🇺🇸>
-1549 237 <Obama is love❤️❤️❤️>
-493 238 <@alphaeagle1776 don't worry all human beings are criminals>
-556 239 <This is sad>
-1054 242 <@lilronnie528 lack of respect?????😂😂😂>
-397 244 <@bawbeakari for what exactly?>
-1127 244 <@bawbeakari for what exactly?>
-1192 246 <Where is 24 section from mansh0reh agar understand>
-103 250 <Like if you’re pro life but think abortion should be legal.>
-635 253 <Hillary you’re next, no hoopla for you.😂>
-1352 254 <به این میگن اتحاد میهنی.. همه روسای جمهور و همه احزاب توو تشییع جنازه کنار هم حاضر شدن.. رهبری هم وجود نداره که بخوایم بگیم از ترس رهبرشونه.. این یعنی اتحاد>
-1355 254 <به این میگن اتحاد میهنی.. همه روسای جمهور و همه احزاب توو تشییع جنازه کنار هم حاضر شدن.. رهبری هم وجود نداره که بخوایم بگیم از ترس رهبرشونه.. این یعنی اتحاد>
-513 255 <Why does Bill Clinton always have his mouth open?>
-661 257 <@ztmiller54 you’re in this picture!!!>
-1319 258 <یقره الفاتحه مح اخلاص آقا ترامپ با تشکر از همه دوستانی که از روستاهای اطراف شهرهای مجاور تشریف فرما شدن بفرمایید حلوا پنج شنبه هم سرویس ایاب و ذهاب جهت رفتن سر مزار آن مرحوم مهیا میباشد بخوان فاتحه که روزی برای ما هم میخوانن>
-345 259 <Where is Donnie Dimwit looking? Show some respect>
-618 259 <Interesting. @michelleobama actually has her hand over her heart. She doesn’t always show America respect.>
-105 260 <Bill is checking out Michelle>
-1183 262 <It is now T time until ....>
-56 263 <@macwagner03 I’m afraid of going blind!! 😎>
-463 263 <I can't stand looking at CORRUPTION (clintons)!>
-84 265 <JFK not saluting I mean Jimmy Cater😂😂😂>
-648 265 <@bawbeakari President Trump United States Commander In Chief.🇺🇸>
-586 268 <The only true President Donal J Trump>
-1282 268 <Senior Bush rest in peace>
-623 271 <You did well Mr President Trump>
-873 273 <The contrast between presidents is remarkable>
-205 274 <Thank you Mr.President>
-262 274 <@bawbeakari You are so stupid 😂😂>
-1303 274 <@nik.musgrave Thank you>
-260 276 <@zacharybarber12 today is about H.W.>
-740 276 <Too bad it's not for Hillary!>
-662 278 <Love you Trump. PLEASE HELP VENEZUELA 'S PEOPLE>
-968 279 <Donald The Conman! 86 45..... mueller is coming Chubby Butt!>
-1122 286 <Everyone looks truly upset. Except for Hillary, she still looks bitter.>
-1372 286 <@smirzaee انسانیت بهترین دارو امیدوارم روی شما عکس عمل نکنه آرزو میکنم ریشه دیکتاتور کنده وآخور حامیانش خالی بلکه مخشون تکون بخوره جهان روی انگشت همین میچرخونه بارها توی کلیپهایی گفته با رژیم مشکل داره نه ملت ایران وبارها به احترام از ملت ومردم ایران صحبت کرده حال بگو کدومور وای میستی با مردم ایران کوچکترین مشکلی نداره فقط بزرگترین مشکل سران نظام دیکتاتوره نه ما ملت در قرن بیست ویک با خوردن نون دو سه هزارتومانی زندگی میکنیم دیگه مخ مارو امسال ولایتیها نمیتونن شستشو بکنند>
-399 287 <@zacharybarber12 heaven hate you>
-528 287 <Thank you Mr President!🇺🇸>
-245 288 <@future.marine_usmc two weeks! Lol! I was thinking by tomorrow!>
-1160 290 <Lobnan section 4 you need bad buildings>
-1047 294 <@ashlelarsen sweetie he's one of you😂>
-1114 302 <@alphaeagle1776 lol no wonder your other account was banned>
-1330 304 <@al_hatton1776 russian collusion + obstruction of justice, duhhh!!..know what i mean>
-116 306 <@alphaeagle1776 He didn't shake their hands or looked at them THANK YOU PRESIDENT TRUMP HE AINT NO HYPOCRITE>
-1085 307 <Billie’s Heart is lower than his lung>
-280 314 <It hurts so much. I been crying so much.>
-747 316 <@sourpatch_84 that's a dumb comment>
-332 317 <Meus pêsames a tudo povo americano 🇺🇸🇺🇸>
-978 317 <HW was #41 not #43. W was #43>
-1121 317 <Meus Sentimentos a Família e amigos.. 🇧🇷>
-924 318 <@mia.beckman appreciate you having my back 😏>
-1490 318 <@pattismurphy337 she doesn't need him for her next presidential campaign anyway 😂😂😂😜>
-1567 318 <@king45moses Don’t believe I called him racist, but do go on...>
-100 321 <@brodyjohnson20 prob stands for gay marriage smh this isn't God's nation no more>
-379 322 <Wow!! What a group!!!>
-571 322 <What a Gentleman ❤️🙏🇺🇸🇺🇸>
-950 322 <Hillary looks like she just woke up from her wine box hangover.>
-287 323 <@imlike87 look how they placed their hands over where their hearts should be!>
-356 323 <Even Obama has his hand 🖐 over his ♥️ heart🥴>
-403 323 <The world hates you>
-1295 324 <God bless you both>
-242 325 <@w64him Tis a well deserved honor 🏅 💞🇺🇸>
-859 325 <Who is that wants seating.>
-1433 326 <Ilove you Trump>
-152 328 <@chelseaeiben it’s a funeral...>
-945 328 <100% assurance of wining, Contact DM now on whatsapp +2348068104272>
-653 331 <I love You Trump Please help Venezuela 's People>
-686 332 <Such a beautiful, touching funeral 💕🇺🇸>
-1111 332 <Y su perro q lindo como quería a su padre.>
-1151 333 <You are all im one give me 30%>
-64 335 <What a picture>
-416 336 <@macwagner03 such a sower face 👿😢>
-866 336 <Look at Jimmy Carter, no hand on his heart!😡>
-1576 337 <I’m surprised Obama has his hand over his heart.>
-923 338 <Like wth is wrong with Bill Clinton’s fingers ??>
-1511 338 <Dad, it’s me. Why won’t you answer my calls?>
-561 340 <Why is that nasty witch there? 😠>
-118 343 <Odumbo wasn’t a president>
-750 343 <Godspeed President Bush! Your work here is done! 🙏>
-1034 344 <Went to hell🔥🔥🔥🔥🔥🔥>
-284 346 <Man I wonder what those "Former" presidents must be thinking right now.>
-328 346 <Americans hate you Trump>
-448 346 <They didn’t want you there @realdonaldtrump>
-498 346 <Where does that #43 come from? Either way, rest in peace.>
-472 350 <@kamrenporche like they all do now be honest.>
-289 351 <What a great picture!>
-644 351 <❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️>
-1153 351 <Off money to THEM>
-1091 355 <You should not have have been there.>
-360 358 <@bawbeakari wtf stop bieng a Nigerian>
-622 359 <ناموسا دهنمونو گاییدی من ی گرافیستم میخام قطعات کشور شما رو بخرم تو ایران قیمتا افتضاح بالا رفته...دهن سرویس ناموسا مردم رو ک اذیت نکن تو خداوکیلی ی ذره انسانیت حالیت نیس ترامپ؟؟؟ننم یسره بهت فحش میده ولی خداوکیلی جوونمون به لبمون رسیده ناموسا ترامپ اذیتمون نکن تحریم صافمون کرده...دهن سرویس اون دنیا باید بیای از من حلالیت بگیری تا ببخشمت...ناموسا این دنیا از ایران بکش بیرون بابا تو قوی قدرتمند بخدا دهنمون سرویس شده....جووونِ عمت ایندفعه رو ن نگو>
-693 359 <R I P 41 President George h.w Bush>
-1260 359 <@iran_start_shahzadh you gonna be ok dont worry lady😂😂>
-781 363 <@chelseaeiben it looks like her arms are crossed, she’s also facing another way...>
-36 365 <RIP from all of Germany>
-1149 366 <16 too close to BY e>
-500 367 <The Clintons look like they enjoy each others company. God Bless our hero, RIP sir❤️🇺🇸>
-863 367 <@lindah6168 all good looks?! No, you Rotten witch! 🤣>
-120 370 <Authorities of US die 1 by 1 but IRAN has still standed 😊😊😊😊🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷>
-972 372 <I wish rest in peace>
-63 374 <Like if you support all 45 presidents!>
-748 375 <Half this picture should be in prison>
-238 378 <👏👏👏Full respect to this.>
-320 380 <@carlojesus21 cuando los venezolanos tengan los cojones de derrocar a ese tirano, consiganse armas y dejen de votar por basuras como Chávez>
-1010 380 <And Hillary wasn’t one of those presidents 🤣🤣🤣👍🏻>
-575 383 <RIP President Bush your with Barbara now❤️>
-358 384 <@bobby_baccooon lol oh man you got me there 🤷🏻‍♀️😂>
-1281 384 <@smirzaee ما امسال مفت خوری که روزانه خرج رستوران رفتنشون حقوق یک ماه ماست رو به آدم حساب نمیکنیم امسال تو پول تو جیبی بهت نرسه انگار اکسیژن بهت نرسیده خفه میشید یعنی کلا مفت خور هستید بزودی به زیر خواهید رفت اگر ترامپ اجنبییه من میگم ای کاش امام زمان این شکلی باشه من میگم امام زمانه پس فکر درآمد باش خرررر بزه آبه ما به نخوردن آدت کردیم اونی که نمیتونه نخوره امسال مفت خور تو هستش>
-538 386 <@bj_sherman why do you think hes so faithful 😜>
-703 387 <@zacharybarber12 who cares....I hate That trumsters are such haters then they blame everyone else with there Fox new propaganda.>
-1559 389 <rip you will be honored bush>
-1584 391 <Notice Whitaker doesn't take his eyes off of those two? 😂>
-55 396 <@brodyjohnson20 that’s where you are wrong kiddo>
-247 397 <@bawbeakari what a stupid comment>
-217 398 <Bill lookin like a Goon>
-984 398 <@alphaeagle1776 Seriously. ... deplorables are exausting💩💩💩on you>
-583 399 <I will say ol Obama actually looks sad. Liberal compassions his only saving grace>
-714 400 <@myhippieplace12345 your are too ignorant for words.>
-788 402 <@beagle_mom1 👉🏻he’s looking at himself in that coffin...just saying 🤷🏼‍♂️>
-1510 403 <Was Hilary Clinton there because if she was she would Propably leave as soon as possible>
-691 406 <One love brings peace and happiness>
-1075 406 <God Bless you President Trump🇺🇸🇺🇸🇺🇸🇺🇸👏🏻>
-824 407 <What are you looking at?>
-362 408 <What is this man looking at @donsesti>
-1164 408 <What are you looking at!>
-548 409 <Made a typo. GHWB was #41>
-377 413 <@bobby_baccooon I'm surprised Michelle Obama even found her heart, she's always ashamed of America>
-647 418 <Well, four presidents and one clown>
-70 420 <What will they say about you don? Nothing good.>
-435 420 <@kathleen_niklas killary is hoping Bill will be next. He looks awful.>
-1276 420 <@bawbeakari Oh when he visits Mrs. Clinton you mean. Gotcha>
-1524 420 <Time to move on>
-1509 421 <Four Presidents and one orange Russian agent.>
-307 423 <@patkray just as much as you or I!>
-1396 423 <Restez en paix notre cher Président and teach , coach , father English .>
-113 426 <Carter, if he could, would take a knee👏>
-746 427 <The video shows all..obamas and Clinton's insincerity>
-1520 428 <Don’t hurt yourself there Obama and Killary>
-206 430 <President Bush43 gave such a wonderful eulogy.>
-857 430 <Thank you for sharing.>
-361 432 <Is Bill trying to look down Michelle Obamas shirt?>
-1467 435 <😂 @hillaryclinton you have no heart tf u doing?>
-974 438 <Hillary looked like a stone cold loser biach disgusting>
-566 439 <@zacharybarber12 well stay in school because sense is spelled wrong...>
-1022 440 <This post is wrong! George H. W. Bush was #41, NOT #43!!!>
-1245 440 <We are looking for your same ceremony 😂😂😂😂>
-166 441 <Hilary about to fall over any second.>
-285 442 <@alphaeagle1776 well you're not a true Republican>
-112 444 <It was a beautiful service.>
-402 445 <It was a beautiful service>
-523 450 <@sourpatch_84 it's because they are all globalists traitors except for Trump. Get woke!>
-1040 450 <The faces from obama and clinton 😂😂😂😂😂>
-922 451 <@mia.beckman they did surgery on a grape>
-1136 451 <RESPECT to your stars>
-1243 453 <Down with usa and trump>
-868 454 <I can't wait till my big send of don X🙏😆❤️>
-888 454 <@zacharybarber12 wish there was a dislike button>
-1229 455 <What are you looking at, @realdonaldtrump ? Did Stormy walk in?>
-792 457 <@bawbeakari your a idiot>
-1098 458 <@bawbeakari maybe to go visit Hillary hahaha.>
-1142 458 <Laheh who just have HISTORY can not show SIMPLE RULE in WORLD>
-628 463 <Awesome man and GREAT PRESIDENT PERIOD Trump>
-593 466 <@chelseaeiben Thank God everything went well. Nobody insulted each other and nobody bragged..>
-426 468 <One President and 4 Traitors>
-1050 468 <@bobby_baccooon An orange clown and his pet feline cat.>
-1288 468 <This was an event for dignitaries. You had no business being there. #fakepresident #fakechristian #fakehumanbeing>
-59 469 <My respect to Bob Dole only.You all cheep,weak pretenders;)>
-1096 469 <@alphaeagle1776 President Trump doesn't need any of them.>
-126 471 <Rest In peace to #41 Goerge H.W Bush 🇺🇸🇺🇸🇺🇸🇺🇸>
-1441 471 <Notice President Carter and wife. 👎🏻>
-94 474 <#RIPGeorgeHWBush🇺🇸🌻...You were indeed a great man. Americans🇺🇸 are gonna miss you😔🙁😓>
-893 474 <@william_connors33 then why do you follow Trump like c'mon>
-1266 475 <@farhad.navazandeh say this to my hotdog>
-1463 475 <@poor_america going to church or reciting something doesn't make someone less Christian than anyone else. Stupid snowflake troll.>
-233 479 <@ashlelarsen I’m a liberal? You insult me like that?>
-756 479 <@myhippieplace12345 Hawaii is part of America 🤷🏼‍♀️>
-212 480 <@bawbeakari if we knew his schedule..like you say>
-602 483 <@ivajchimoski123 President tramp!!!! Ha your misspelling is so true 😂😂😂😂>
-808 485 <@noelime0324 wow, we gotta smartass here, someone call 911 cause ladies and gents, we got em👌>
-186 486 <No one will go to obama funeral>
-1557 487 <You either have it or you don’t; Class!!>
-1577 487 <I’m amazed obama and his husband showed up>
-210 490 <@1a_saraa مگه قبل از تحریم کشور گل و بلبل بود؟؟؟مگه با پایین اومدن دلار قیمت اجناس پایین اومده؟؟تحریم دو سه ماه شروع شده .مملکت چهل سال به فنا رفته...آیا خبر دارید آبهای ایران آغشته به رادیو اکتیو است؟آیا میدانی چرا فعالان محیط زیست کشته میشوند؟ثروت کشور خرج ترو ریست و آقا زاده میشه؟مردم سیستان و بلوچستان سالهاست در فقر مطلق هستن؟آیا میدانی دارو تحریم نیست؟ولی رژیم دیکتاتوری آخوندی به دروغ میگوید تحریم است و دارو رو به یمن و عراق میفرستد؟دیگه اینجا نیا نگو ترامپ دلار رو ارزون کن..افتاد یا نه؟؟؟؟>
-831 490 <@china_number__1 Thank You have a nice day>
-872 492 <Sign the farm bill!>
-1233 492 <@al_hatton1776 he did act like a big boy. Quite impressive, definitely deserves McDonald’s!>
-478 493 <We are power USA and IRN 💪💪💪💪>
-1197 493 <With the international hiche>
-1234 493 <Take the L>
-539 494 <@ch4rly77 nos unimos como hace año y medio y nos matan como unos perros otra vez y ya en venezuela no queda gente para salir a la calle ya en venezla lo que quedan son niños y ancianos>
-879 495 <Release the JFK files Don! WWG1WGA>
-606 496 <George HW was a real patriot unlike draft dodging Trump. RIP 🇺🇸🇺🇸🇺🇸>
-664 497 <Stop the mocking comments geez 👈🏻>
-896 497 <@Zach charybarber12 Cause he’s the POTUS>
-1504 497 <All the best.>
-188 498 <2 crooks, 1 peanut farmer, 1 republican turn coat and President Trump.>
-1325 500 <You are THE BEST president in that row!!! 💕😍🇺🇸😍💕>
-1447 500 <There obamas clintons has to look at donald trump back😂😂😂😂😂😂😂😂😂>
-604 504 <Is it me or @barackobama nose gets smaller and smaller??!!! @loomered @donaldjtrumpjr>
-1134 505 <RESPECT to your people need UNDERSTAND>
-1241 505 <آخوندها سپاهیان خائن ببینند اتحاد را در سرزمین کفر که نه با فرمان رییس جمهور بلکه با آزاده ملی وبه پاس زحمات این شخص که حتما از منظر هرکدام نقایصی هم داشته صورت میگیرد اما در ایران الی خاینه ای رهخر با تشر و اخم در روز مثلا وحدت که روز عید مسلمانان اسمش گذاشتند کار گزاران نظام را کنار هم جمع می کن اما مث دو دشمن به زور وبا نفرت کنار هم می نشینند دانشگاه یک فرد بنام پدر شهید با تحریک بی حیا شخص دوم مملکت را با الفاظ ناقص در حضور رهخر و سفرای کشورهای مسلمان سکه یه پول می کنه>
-424 506 <@bawbeakari Back to your coloring books troll...🇺🇸🇺🇸Trump 2020>
-1069 506 <Find the trump>
-1071 507 <Too bad Hillary looks looks like a cold bitter woman>
-235 508 <lol the Clinton’s>
-1014 509 <@deplorabledefenders I can’t stand your leader. He is exausting 🤬🤬🤬🤬>
-187 511 <🇺🇸God Bless the USA>
-474 511 <@alphaeagle1776 lock him up lock him up this 🤡 is just about done🤣🤣>
-796 515 <Lmfao the man carter>
-1200 515 <Bring the pain Mr. President!!!!>
-1544 518 <Reading through these comments really show how brainwashed and stupid Americans all are😂😂😂😂>
-173 519 <God bless president bush and god bless America 💫🙏❤️🌹>
-148 520 <@brodyjohnson20 killing babies is a problem>
-1086 520 <@hallryland202 thank you for your service.🇺🇸>
-920 521 <@alphaeagle1776 honestly tho why not speak up and argument tho:)>
-1032 522 <Fatso is such a loathsome loser.🐷>
-1206 522 <God bless you President Trump ❤️>
-93 526 <Jimmy Carter taking the option #Qanon #MAGA>
-371 526 <@rbizzle703 ikr?? It’s like she’s at a funeral or something...>
-1156 534 <@007reflect hate is a choice. 😢>
-1527 534 <Rip the old strong man>
-680 535 <Oh, I bet that was hard for hilary>
-299 536 <@frankotattostudio porque en lugar de pedir ayuda de sacarlos de su país, luchan por derrocar ese dictador comunista que tienen? Trump solo vería la opción de ayudarlos militarmente para una revolución en contra del gobierno de Maduro, que lo único que ha dejado es hambre y destrucción, aunque no lo creas esa ideología comunista es muy popular aquí en EEUU representado por el partido izquierdista o DemocRATA. Piensen en como luchar para recuperar su patria de las garras del comunismo y en vez de huir, llenense de valor y armas para acabar con ese gobierno corrupto.>
-1128 536 <I cried what a beautiful service. RIH... .>
-1227 536 <The world said goodbye to an amazing human being today. RIP sir !>
-987 539 <That is a great photo.>
-1296 541 <@ashlelarsen I think you might be confused labeling @alphaeagle1776 "libtard". 🤔>
-337 550 <@michaelclayton87 only time will tell, and maybe you'll be proven wrong>
-882 553 <you arrest a Chinese illegally>
-1143 555 <Mission completed to hell? What do u take with u ?>
-1315 557 <@zacharybarber12 Highly inappropriate. This photo shows politicians putting differences aside to honor Bush after he passed away.>
-367 560 <@kevinwhite___ she is evil...she has even destroyed her husband. He should have gotten away from her years ago.>
-911 562 <Don’t see any spoiled kids taking a knee on this one>
-981 563 <I prayed for you today.>
-146 564 <Not even death can soften @hillaryclinton heart. She’s the worst.>
-190 565 <@brodyjohnson20 uh, yeah there is, and it’s just not me saying that...>
-638 565 <We’ve been blessed to have so many living Presidents. God Bless.>
-910 566 <Shouldn’t it say “flag-draped casket of former US president George H.W. Bush #41” not “#43”!>
-507 568 <Rip thank you for your service god bless family's>
-23 569 <I hate Clinton like if you hate abortions #trumptrain>
-827 569 <Praying The Bush's and Trump's stay Classy like they always been.>
-1038 569 <How many people gonna say "such a racist" for literally absolutely nothing 😂>
-215 570 <Our beautiful President Trump and Melania looked special>
-372 570 <How can you get wrong that George HW was #43? 🙄>
-721 571 <@miller.magic is that you there???>
-141 573 <@puck45 hehe I guess you are one>
-1078 573 <@kiharo1503 bc she’s beautiful and you’re not, I would guess.🇺🇸>
-1443 578 <Hilary sadly looked so bitter during the whole ceremony 🧐>
-805 580 <GOD bless Mr. President @realdonaldtrump and her nation>
-398 584 <Wonder if @realdonaldtrump talked to Hillary at all>
-429 584 <We will all be there one day. Until next time HW! May God Rest your soul. @realdonaldtrump great job!>
-738 586 <Look at the obamas hateful faces>
-40 588 <@zacharybarber12 follow my page for awesome political debates and discussions.>
-979 589 <This is a really good picture>
-281 590 <@poor_america well he's not a total hypocrite like Obama.....im sure ala will make him pay.>
-308 591 <I am concern about our Heroes too. But is'nt something all tgee good people that we lost>
-1342 596 <So Presidential. He really stands out among the other Presidents.❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️#thatssomypresident>
-631 600 <Such a moment in history! God bless America 🇺🇸>
-729 601 <George H W Bush is #41. George W Bush is #43.>
-995 606 <A wonderful send off. Class all the way 💖>
-432 607 <@wcjames.davidson Lmao ,, this kid is a joke.,, every thread same troll...>
-850 608 <proud of you Mr President 🇺🇸🇺🇸>
-232 610 <God Bless America. The best country in all of mankind>
-763 613 <@peasfurall leave her post her comment. Keep your thoughts to yourself. Move on>
-438 615 <There's a group you probably won't see together ever again.>
-801 616 <Very touching service God Bless the Bush Family>
-1367 618 <روحش شاد بوش پدر، I love you realdonaldtrump لطفا مذاکره نکنید لطفا مردم ایران رژیم آخوندی نمیخوان لطفا مردم ایران رو از دست این دزدهاوتروریستگرا وظالما نجات بدید 🙏 🙏 🙏 لطفا مذاکره نکنید 🙏🙏🙏✌️✌️✌️✌️✌️💙🇱🇷💙🇱🇷💙🇱🇷💙>
-1457 618 <@myhippieplace12345 don’t let yourself be exhausted by someone you don’t like. It’s not worth it>
-752 619 <@ry3nl i have been wondering about that too..its a very strange dazed look>
-1381 624 <Obama, Michelle, Bill, Hillary; God have mercy on their souls! Judgement must be but don’t forget mercy, O God! I LOVE YOU, TRUMP, AND EVERSO GRACIOUS, Melania!!! ❤️❤️❤️🇺🇸>
-876 627 <Total class Mr. President and our Beautiful First Lady; Melania ... God Bless 🙏🇺🇸>
-444 629 <Thank you for turning away...showing zero respect for evil. #wwg1wga>
-268 639 <Beautiful job by the #military You did him proud 🙏🇺🇸>
-464 643 <@flak_tower_supreme_ Ight we’ll figure out how to clone Trump for y’all>
-353 644 <Jimmy Carters hand must be too heavy to place over his heart.>
-518 644 <@brodyjohnson20 all 44...this last one is a joke.>
-1432 645 <Bush was the swamp>
-494 648 <@lilronnie528 hating on wat...pls explain...maybe hes hating that Bush seeked Michelle Obama's affection/attention by giving her another piece of candy while totally ignoring our mailbride>
-1053 650 <@chelseaeiben I would be too! All of them are uncomfortable>
-870 651 <@rose_houk neither one of them has a heart!>
-766 652 <@macwagner03 neither her or Bill know where their hearts are supposed to be!>
-72 654 <Like if you want to MAKE AMERICA GREAT AGAIN!>
-757 656 <Last destination, all power of social, political &eco end hear with history. But ethic will never end,stop, destroyed. It's constantly epic travel in system>
-707 658 <@myhippieplace12345 Obama ruined the country. We all hate now.>
-803 659 <why tf clinton there. they be ruinin the shot>
-670 666 <Wow obummer actually has his hand over his heart? No one taking a knee. That’s nice.>
-82 667 <Fs in the chat chief>
-286 668 <@bawbeakari keep wishing your disappointment is a guarantee>
-809 669 <To me that didn’t look like Obama’s real hand on his heart might be wrong but look closely>
-925 669 <@realDonaldTrump You have my vote and support President Trump. #KeepFighting #45 #TrumpPence2020 #MakeAmericaGreatAgain #AmericaFirst #DrainTheSwamp @WhiteHouse @DanScavino @seanhannity @720LasVegas @JohnTRourke @foxandfriends @DiamondandSilk #BreakingNews #RT #Follow>
-1464 670 <@zacharybarber12 hates em so much he paid his mistress to have one.>
-705 671 <@brodyjohnson20 see, now that there is a lie>
-1420 675 <A pic is worth a thousand words. And this one speaks volumes.>
-769 677 <@al_hatton1776 lol! Traitors, you sound like you have diarrhea>
-407 678 <Did anyone see a smirk on Bill's face while George W. Bush spoke about his father?>
-531 681 <Look @ carter...No respect. Would not place his hand over his heart. Still a coward.>
-468 683 <Hillary patting all over her chest looking for a heart. Lol.>
-969 683 <@myhippieplace12345 she makes more logical points then you could possibly make in your lifetime 😂 sad>
-599 685 <Must've been killing hillary to be around all those presidents knowing she ain't one 😂>
-1402 685 <@smirzaee The love and hope of Iranians Prince Reza Pahlavi>
+1388 9 <Really sorry to USA and Mr. President.... My condolence>
+1397 9 <Niceeee! Greetings from other side of the world 😊>
+1467 9 <😂 @hillaryclinton you have no heart tf u doing?>
+1470 9 <Anyone notice missing flag pendants on former president???? #makeamericagreatagain🇺🇸>
+1498 9 <The level of civil attitudes was good to see.>
+1507 9 <کاش تو میمردی ترامپ جهانی از شرت راحت میشد>
+1511 9 <Dad, it’s me. Why won’t you answer my calls?>
+1521 9 <PRESIDENT iam sorry The people Love program. Good...... 💟🗽🗽🆗♍>
+1540 9 <@bawbeakari going to prison..ya with Hillary in tow..Huck fillary>
+1551 9 <@king45moses The Russian’s kompromat on Trump predates the election.>
+1560 9 <هرچی خاک اون کس کش کونیه خاک تو باشه>
+1576 9 <I’m surprised Obama has his hand over his heart.>
+40 10 <@zacharybarber12 follow my page for awesome political debates and discussions.>
+86 10 <Such a shame the Obama's and Clinton's ruined this picture...>
+146 10 <Not even death can soften @hillaryclinton heart. She’s the worst.>
+150 10 <@bobby_baccooon such a shame about how miserable you are 😢>
+227 10 <@josephine.dedominicis he did shake their hands, but nice try 👍🏼>
+232 10 <God Bless America. The best country in all of mankind>
+254 10 <And finally He passed away, go back Hell, Boy !>
+268 10 <Beautiful job by the #military You did him proud 🙏🇺🇸>
+272 10 <Like if George hw bush was the best president ever!>
+292 10 <@bawbeakari it must be hard living a life of disappointments>
+354 10 <Let see if you can keep up the good class👍>
+356 10 <Even Obama has his hand 🖐 over his ♥️ heart🥴>
+371 10 <@rbizzle703 ikr?? It’s like she’s at a funeral or something...>
+438 10 <There's a group you probably won't see together ever again.>
+444 10 <Thank you for turning away...showing zero respect for evil. #wwg1wga>
+519 10 <Hey Jimmy Carter.....no hand over your heart....that speaks volumes.....your next!>
+530 10 <@flak_tower_supreme_ the German people need to fight for their heritage.>
+560 10 <@bawbeakari hahaha yea right media has lied to you all>
+566 10 <@zacharybarber12 well stay in school because sense is spelled wrong...>
+579 10 <@riverrod_ glad I am not the only one who noticed.>
+602 10 <@ivajchimoski123 President tramp!!!! Ha your misspelling is so true 😂😂😂😂>
+625 10 <Its the homie Barack Obama next to Pelos de Elote.>
+672 10 <@poor_america ya because cnn is always telling the truth #saidnooneever>
+741 10 <Mi pésame , Dios lo tenga en la gloria !!!>
+745 10 <RIP to the late President George H W Bush 🙏🙏🙏🙏🙏>
+785 10 <Look at that pig @hillaryclinton the most disconnected human being>
+788 10 <@beagle_mom1 👉🏻he’s looking at himself in that coffin...just saying 🤷🏼‍♂️>
+816 10 <@noelime0324 don't reply unless you have a good answer 👌😊>
+868 10 <I can't wait till my big send of don X🙏😆❤️>
+918 10 <Such Respect for the Bush's #POTUS. Thank You sir @realdonaldtrump>
+920 10 <@alphaeagle1776 honestly tho why not speak up and argument tho:)>
+945 10 <100% assurance of wining, Contact DM now on whatsapp +2348068104272>
+968 10 <Donald The Conman! 86 45..... mueller is coming Chubby Butt!>
+1014 10 <@deplorabledefenders I can’t stand your leader. He is exausting 🤬🤬🤬🤬>
+1030 10 <@bawbeakari with Hilary in the backseat of the car 🤷🏻‍♂️>
+1045 10 <Your the best out of all of them! Hands down.>
+1053 10 <@chelseaeiben I would be too! All of them are uncomfortable>
+1071 10 <Too bad Hillary looks looks like a cold bitter woman>
+1078 10 <@kiharo1503 bc she’s beautiful and you’re not, I would guess.🇺🇸>
+1101 10 <As the family say goodbye. My thoughts are with them.>
+1111 10 <Y su perro q lindo como quería a su padre.>
+1258 10 <~ Hillary whispers; "Bill, who'd we kill this time?" 😏>
+1276 10 <@bawbeakari Oh when he visits Mrs. Clinton you mean. Gotcha>
+1293 10 <Damn, cant believe George Washington didnt show up. That's disrespectful.>
+1311 10 <The obamas insincerity and lack of respect are eviden shame>
+1317 10 <So proud of our military how they handled the President.>
+1342 10 <So Presidential. He really stands out among the other Presidents.❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️#thatssomypresident>
+1389 10 <Donald looking sharp... 1st lady looking beautiful 👍. The Trumps>
+1395 10 <هذي حال الدنيا يا ترامب لا تفكر عمرك بدوم فيها💔😢>
+1402 10 <@smirzaee The love and hope of Iranians Prince Reza Pahlavi>
+1428 10 <@mehrab.ahmadii بهتره آدم بدون بررسی همه چی رو داد نزنه>
+1443 10 <Hilary sadly looked so bitter during the whole ceremony 🧐>
+1447 10 <There obamas clintons has to look at donald trump back😂😂😂😂😂😂😂😂😂>
+1448 10 <Is that second person behind Killary skeletor ? Scary AF>
+1462 10 <What a joke! They all know he was a traitor.>
+1513 10 <Why didn't the Carter's put their hands over their hearts?>
+1536 10 <George HW Bush was the 41st President not the 43rd>
