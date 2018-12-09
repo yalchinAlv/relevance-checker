@@ -21,8 +21,11 @@ public class KeywordMapper extends MapReduceBase implements
         String line = comment.toString();
         String[] words = line.split(" ");
 
-        for (int i = 1; i < words.length; i++) {
-            output.collect(new Text(words[i]), new IntWritable(Integer.parseInt(words[0])));
-        }
+        if (words.length > 1) 
+            for (int i = 1; i < words.length; i++) {
+                output.collect(new Text(words[i]), new IntWritable(Integer.parseInt(words[0])));
+            }
+        else
+            output.collect(new Text(" "), new IntWritable(Integer.parseInt(words[0])));
     }
 }
