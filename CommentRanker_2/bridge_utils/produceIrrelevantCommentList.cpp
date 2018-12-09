@@ -3,7 +3,7 @@ using namespace std;
 
 const int MAX_COMMENT_NO = 100000;
 
-vector<string> comments;
+unordered_map<int, string>comments;
 vector< pair<int, int> >comment_scores;
 bool used[MAX_COMMENT_NO];
 
@@ -15,7 +15,7 @@ int main() {
     int comment_id;
 
     while (cin >> comment_id && getline(cin, comment)){
-        comments.push_back(comment);
+        comments[comment_id] = comment;
     }
 
     cin.clear();
@@ -35,9 +35,11 @@ int main() {
       used[i] = false;
     for (int i = 0; i < comment_scores.size(); i++)
       used[comment_scores[i].second] = true;
-    for (int i = 0; i < comments.size(); i++)
-      if (!used[i])
-        comment_scores.push_back({0, i});
+
+    unordered_map<int, string>::iterator it;
+    for (it = comments.begin(); it != comments.end(); it++)
+      if (!used[it->first])
+        comment_scores.push_back({0, it->first});
 
 
     sort(comment_scores.begin(), comment_scores.end());
