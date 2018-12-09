@@ -89,10 +89,8 @@ public class CommentRanker {
 
       String[] line;
       while ((st = br.readLine()) != null) {
-        //System.out.println("line[1]");
-
         line = st.split("\t");
-        //System.out.println("line[1]");
+
         Pair pair = new Pair(line[0], new ArrayList<String>(Arrays.asList(line[1].split(" ") )));
         pairs.add(pair);
       }
@@ -100,7 +98,8 @@ public class CommentRanker {
 
       PrintWriter writer = new PrintWriter("temp_dir/part-00000", "UTF-8");
 
-      for(int i = 0; i < pairs.size(); i++) {
+      for(int i = 0; i < 100/*pairs.size()*/; i++) {
+
         writer.println(pairs.get(i).line + "\t" + pairs.get(i).commentsToString());
       }
       writer.close();
