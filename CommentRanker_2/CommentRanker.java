@@ -97,7 +97,7 @@ public class CommentRanker {
 
       PrintWriter writer = new PrintWriter("temp_dir/part-00000", "UTF-8");
 
-      for(int i = 0; i < 100; i++) {
+      for(int i = 0; i < 250; i++) {
         writer.println(pairs.get(i).line + "\t" + pairs.get(i).commentsToString());
       }
       writer.close();
