@@ -26,7 +26,7 @@ int main() {
     reverse(key_score.begin(), key_score.end());
 
     for (int i = 0; i < key_score.size(); i++){
-        cout << key_score[i].second << " " << key_score[i].first << endl;
+        cout << key_score[i].second << " " << 1 << endl;
     }
 
     return 0;
