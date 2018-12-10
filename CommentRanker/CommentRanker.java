@@ -27,6 +27,8 @@ public class CommentRanker {
             FileInputFormat.setInputPaths(firstStage, new Path(args[0]));
             FileOutputFormat.setOutputPath(firstStage, new Path(args[1]));
 
+            //firstStage.setNumReduceTasks(2);
+
             JobClient.runJob(firstStage);
 
             // Second Stage
