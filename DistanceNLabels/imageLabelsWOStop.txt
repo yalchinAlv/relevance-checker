@@ -1,0 +1,7 @@
+official 0.8018946
+crowd 0.6571132
+audience 0.5771099
+event 0.5295254
+military 0.6494942
+person 0.6494942
+officer 0.613217
