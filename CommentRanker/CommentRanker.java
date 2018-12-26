@@ -6,6 +6,7 @@ import org.apache.hadoop.mapred.*;
 
 
 public class CommentRanker {
+    final static int REDUCER_NO = 2;
     public static void main(String[] args) throws Exception {
 
             // First Stage
@@ -27,7 +28,7 @@ public class CommentRanker {
             FileInputFormat.setInputPaths(firstStage, new Path(args[0]));
             FileOutputFormat.setOutputPath(firstStage, new Path(args[1]));
 
-            //firstStage.setNumReduceTasks(2);
+            firstStage.setNumReduceTasks(REDUCER_NO);
 
             JobClient.runJob(firstStage);
 
@@ -46,6 +47,8 @@ public class CommentRanker {
 
             FileInputFormat.setInputPaths(secondStage, new Path(args[1]));
             FileOutputFormat.setOutputPath(secondStage, new Path(args[2]));
+
+            secondStage.setNumReduceTasks(REDUCER_NO);
 
             JobClient.runJob(secondStage);
     }
